@@ -5,7 +5,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 Also get to know where you can **deploy** your model to serve millions of people
 
-Check out the **free credits** and **Perks/offer** section to get some free gpu hours 
+Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
 Last updated : 18 April 2019
 
@@ -46,7 +46,7 @@ Last updated : 18 April 2019
 |33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
 
 
-# Deployment as a Web app
+# Deploy your model as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
 
  |# | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
