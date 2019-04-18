@@ -5,11 +5,11 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 Also get to know where you can **deploy** your model to serve millions of people
 
-Check out the **free credits** section to get some free gpu hours 
+Check out the **free credits** and **Perks/offer** section to get some free gpu hours 
 
 Last updated : 18 April 2019
 
- |# | Cloud vendor   |      website      |  pricing | Trial available / Free Credits | 
+ |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|-------------| ------ | -------------|
 |1 | Google Colaboratory | https://colab.research.google.com | FREE | FREE FOREVER* | 
 |2 | Kaggle Kernels |   https://www.kaggle.com |  FREE | FREE FOREVER* |
@@ -17,7 +17,7 @@ Last updated : 18 April 2019
 |4| FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
 |5| Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
 |6| Nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | free $5 worth of cloud credits|
-|7| paperspace | https://www.paperspace.com | https://www.paperspace.com/pricing | - |
+|7| paperspace | https://www.paperspace.com | https://www.paperspace.com/pricing | $10 credits |
 |8| Overture |https://www.overture.ai | - | free credits on signup|
 |9| Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition/) |
 |10| Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
@@ -43,13 +43,39 @@ Last updated : 18 April 2019
 |30| Nvidia cloud|https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/|-|-|
 |31|One stop System|https://www.onestopsystems.com/HPCaaS|-|-|
 |32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|[pricing](https://azure.microsoft.com/en-in/pricing/)| $200 [credits](https://azure.microsoft.com/en-us/free/)
+|33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
 
 
-## Notes
+# Deployment as a Web app
+Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
+|#   |  Vendor | Website  | Pricing  | Free trial / Free Credits
+|---|---|---|---|
+| 1  | Render  | https://render.com  |  https://render.com/pricing |-|
+|  2 |  Heroku |  https://www.heroku.com |  https://www.heroku.com/pricing | [Free plan](https://www.heroku.com/free) (model<500MB)|
+|  3 | Digtal Ocean  | https://www.digitalocean.com  |  [pay as you go](https://www.digitalocean.com/pricing/) | free $100 credits with [github student pack](https://education.github.com/pack)|
+| 4 | Glitch | https://glitch.com |-|-|
+| 5 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available|
+
+# Perks and offers
+If you are a student or researcher you can get extra credts , contact the provider
+* Watch out on [fast.ai Forums](https://forums.fast.ai) to get coupon code for free credits
+* Valohai gives you an [researcher license](https://valohai.com/research-license/) for students and researchers
+* Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/start_gradient.html#promotional-credit)
+* Are you having an GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
+* Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
+* Google Cloud Research program - gives $5000+ credits [link](https://lp.google-mkto.com/gcp-research-credits-FAQ.html)
+* AWS Cloud Credits for Research -[link](https://aws.amazon.com/research-credits/)
+* Nvidia GPU Grant Program- [link](https://developer.nvidia.com/academic_gpu_seeding)
+* **If you are a Startup** then google has you covered wth Startup Program giving you credits from **$1000 to $100000** - [link](https://cloud.google.com/developers/startups/)
+* Google giving cluster of 1000 TPUs to researcher  In total, this cluster delivers a total of more than 180 petaflops of raw compute power! [techcrunch link](https://techcrunch.com/2017/05/17/the-tensorflow-research-cloud-program-gives-the-latest-cloud-tpus-to-scientists/)  - [application link](https://www.tensorflow.org/tfrc/)
+* Google cloud Education Grant - [link](https://cloud.google.com/edu/)
+* Github Education pack - along with many offers has upto $110 credits for AWS - [link](https://education.github.com/pack)
+
+## * Notes
 * Google colab and Kaggle kernels have limited session time 
 * Most of the gpu providers run on top of AWS , GCP etc so may have more or less same pricing as the latter
 * Information given above is best to my searching ability , you may recheck with the provider for pricing
-
+* license
 
 
 
