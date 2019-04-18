@@ -42,7 +42,13 @@ Last updated : 18 April 2019
 |29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
 |30| Nvidia cloud|https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/|-|-|
 |31|One stop System|https://www.onestopsystems.com/HPCaaS|-|-|
-|32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|https://azure.microsoft.com/en-in/pricing/| $200 [credits](https://azure.microsoft.com/en-us/free/)
+|32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|[pricing](https://azure.microsoft.com/en-in/pricing/)| $200 [credits](https://azure.microsoft.com/en-us/free/)
+
+
+## Notes
+* Google colab and Kaggle kernels have limited session time 
+* Most of the gpu providers run on top of AWS , GCP etc so may have more or less same pricing as the latter
+* Information given above is best to my searching ability , you may recheck with the provider for pricing
 
 
 
