@@ -79,6 +79,8 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Information given above is best to my searching ability , you may recheck with the provider for pricing and other info
 * [license](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/LICENSE)
 
+* Check out my other repo where I put together Awesome google colab notebook - [link](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
+
 
 
 
