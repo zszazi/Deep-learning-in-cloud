@@ -59,23 +59,24 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
-* Watch out on [fast.ai Forums](https://forums.fast.ai) to get coupon code for free credits
-* Valohai gives you an [researcher license](https://valohai.com/research-license/) for students and researchers
+
 * Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/start_gradient.html#promotional-credit)
 * Are you having an GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
 * Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
-* Google Cloud Research program - gives $5000+ credits [link](https://lp.google-mkto.com/gcp-research-credits-FAQ.html)
+* Google Cloud Research program - gives **$5000+ credits** [link](https://lp.google-mkto.com/gcp-research-credits-FAQ.html)
 * AWS Cloud Credits for Research -[link](https://aws.amazon.com/research-credits/)
 * Nvidia GPU Grant Program- [link](https://developer.nvidia.com/academic_gpu_seeding)
 * **If you are a Startup** then google has you covered wth Startup Program giving you credits from **$1000 to $100000** - [link](https://cloud.google.com/developers/startups/)
-* Google giving cluster of 1000 TPUs to researcher  In total, this cluster delivers a total of more than 180 petaflops of raw compute power! [techcrunch link](https://techcrunch.com/2017/05/17/the-tensorflow-research-cloud-program-gives-the-latest-cloud-tpus-to-scientists/)  - [application link](https://www.tensorflow.org/tfrc/)
+* Google giving cluster of **1000 TPUs to researcher** In total, this cluster delivers a total of more than **180 petaflops of raw compute power!** [techcrunch link](https://techcrunch.com/2017/05/17/the-tensorflow-research-cloud-program-gives-the-latest-cloud-tpus-to-scientists/)  - [application link](https://www.tensorflow.org/tfrc/)
 * Google cloud Education Grant - [link](https://cloud.google.com/edu/)
 * Github Education pack - along with many offers has upto $110 credits for AWS - [link](https://education.github.com/pack)
+* Watch out on [fast.ai Forums](https://forums.fast.ai) to get coupon code for free credits
+* Valohai gives you an [researcher license](https://valohai.com/research-license/) for students and researchers
 
 ## * Notes
 * Google colab and Kaggle kernels have limited session time 
 * Most of the gpu providers run on top of AWS , GCP etc so may have more or less same pricing as the latter
-* Information given above is best to my searching ability , you may recheck with the provider for pricing
+* Information given above is best to my searching ability , you may recheck with the provider for pricing and other info
 * license
 
 
@@ -83,4 +84,6 @@ If you are a student or researcher you can get extra credts , contact the provid
 
 
 
- **PS**:Motivation for this repo - Cuz I dont have a GPU laptop so I am after free gpu providers and have bookmarked a lot of them thus now I am sharing these with you
+ **PS**:Motivation for this repo - Cuz I dont have a GPU laptop so I keep on looking for free gpu providers and have bookmarked a lot of them , now I am sharing these with you
+ 
+ Made with ❤️ 
