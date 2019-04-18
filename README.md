@@ -1,5 +1,5 @@
 # ☁️☁️Deep-learning-in-cloud☁️☁️
-Ever had a laptop 💻 which is not powerful enough to run your models , forget about it and use **cloud gpus** ☁️ to train your model faster and cheaper
+Ever had a laptop 💻 which is not powerful enough to run your models , forget about it and use **Cloud GPUs** ☁️ to train your model faster and cheaper cuz its raining 💦 Cloud GPUs
 
 
 
@@ -34,9 +34,9 @@ Last updated : 18 April 2019
 |21| Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
 |22| vscaler | https://www.vscaler.com |[on request](https://www.vscaler.com/private-cloud-appliance/)| -|
 |23| AWS Sagemaker |https://aws.amazon.com/sagemaker/ |[pricing](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
-|24| exoscale |https://www.exoscale.com/gpu/|[pricing](https://www.exoscale.com/pricing/#/gpu/small) |-|
+|24| Exoscale |https://www.exoscale.com/gpu/|[pricing](https://www.exoscale.com/pricing/#/gpu/small) |-|
 |25|Cirrascale|http://www.cirrascale.com| [Work station](http://www.cirrascale.com/pricing_waas.php)|-|
-|26| Alibaba cloud |alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
+|26| Alibaba cloud |https://alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
 |27|IBM Cloud|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)|$200 [credits](https://console.bluemix.net/registration/free)|
 |28|Google Cloud Platform|https://cloud.google.com/gpu/|https://cloud.google.com/pricing/|$300 [credits](https://cloud.google.com/free/)|
 |29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
