@@ -10,7 +10,7 @@ Check out the **free credits** and **Perks/offer** section to get some free gpu 
 Last updated : 18 April 2019
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
-| ---|----------|-------------| ------ | -------------|
+| ---|----------|---------| -------- | ----------|
 |1 | Google Colaboratory | https://colab.research.google.com | FREE | FREE FOREVER* | 
 |2 | Kaggle Kernels |   https://www.kaggle.com |  FREE | FREE FOREVER* |
 |3| Tensorpad | https://www.tensorpad.com |  1080ti at $0.49/hour | 5 free GPU hours |
@@ -41,15 +41,16 @@ Last updated : 18 April 2019
 |28|Google Cloud Platform|https://cloud.google.com/gpu/|https://cloud.google.com/pricing/|$300 [credits](https://cloud.google.com/free/)|
 |29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
 |30| Nvidia cloud|https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/|-|-|
-|31|One stop System|https://www.onestopsystems.com/HPCaaS|-|-|
+|31|One stop System|https://www.onestopsystems.com|-|-|
 |32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|[pricing](https://azure.microsoft.com/en-in/pricing/)| $200 [credits](https://azure.microsoft.com/en-us/free/)
 |33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
 
 
 # Deployment as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
-|#   |  Vendor | Website  | Pricing  | Free trial / Free Credits
-|---|---|---|---|
+
+ |# | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
+| ---|----------|---------| -------- | ----------|
 | 1  | Render  | https://render.com  |  https://render.com/pricing |-|
 |  2 |  Heroku |  https://www.heroku.com |  https://www.heroku.com/pricing | [Free plan](https://www.heroku.com/free) (model<500MB)|
 |  3 | Digtal Ocean  | https://www.digitalocean.com  |  [pay as you go](https://www.digitalocean.com/pricing/) | free $100 credits with [github student pack](https://education.github.com/pack)|
