@@ -29,7 +29,7 @@ Last updated : 18 April 2019
 |16| Crestle |https://crestle.ai | https://crestle.ai/#pricing| 1 hour of free GPU usage on sign up [fast.ai](https://course.fast.ai/start_crestle.html#pricing) |
 |17| Vector Dash(gaming) | https://vectordash.com |-| free 7 day plan|
 |18| Spell | https://spell.run/developers| https://spell.run/pricing | -|
-|19|Rapid Switch|https://www.rapidswitch.com|https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/|-|
+|19|Rapid Switch|https://www.rapidswitch.com|[pricing](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/)|-|
 |20| Salamander|https://salamander.ai|https://salamander.ai|-|
 |21| Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
 |22| vscaler | https://www.vscaler.com |[on request](https://www.vscaler.com/private-cloud-appliance/)| -|
@@ -38,7 +38,9 @@ Last updated : 18 April 2019
 |25|Cirrascale|http://www.cirrascale.com| [Work station](http://www.cirrascale.com/pricing_waas.php)|-|
 |26| Alibaba cloud |alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
 |27|IBM|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)|$200 [credits](https://console.bluemix.net/registration/free)|
-|28|Google Cloud Platform|
+|28|Google Cloud Platform|https://cloud.google.com/gpu/|https://cloud.google.com/pricing/|$300 [credits](https://cloud.google.com/free/)|
+|29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
+
 
 
 
