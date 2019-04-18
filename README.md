@@ -37,9 +37,14 @@ Last updated : 18 April 2019
 |24| exoscale |https://www.exoscale.com/gpu/|[pricing](https://www.exoscale.com/pricing/#/gpu/small) |-|
 |25|Cirrascale|http://www.cirrascale.com| [Work station](http://www.cirrascale.com/pricing_waas.php)|-|
 |26| Alibaba cloud |alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
-|27|IBM|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)|$200 [credits](https://console.bluemix.net/registration/free)|
+|27|IBM Cloud|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)|$200 [credits](https://console.bluemix.net/registration/free)|
 |28|Google Cloud Platform|https://cloud.google.com/gpu/|https://cloud.google.com/pricing/|$300 [credits](https://cloud.google.com/free/)|
 |29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
+|30| Nvidia cloud|https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/|-|-|
+|31|One stop System|https://www.onestopsystems.com/HPCaaS|-|-|
+|32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|https://azure.microsoft.com/en-in/pricing/| $200 [credits](https://azure.microsoft.com/en-us/free/)
+
+
 
 
 
