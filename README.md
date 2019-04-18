@@ -28,7 +28,7 @@ Last updated : 18 April 2019
 |15| Snark | https://snark.ai | https://scale.snark.ai/pricing | - |
 |16| Crestle |https://crestle.ai | https://crestle.ai/#pricing| 1 hour of free GPU usage on sign up [fast.ai](https://course.fast.ai/start_crestle.html#pricing) |
 |17| Vector Dash(gaming) | https://vectordash.com |-| free 7 day plan|
-|18| Spell | https://spell.run/developers| https://spell.run/pricing | -|
+|18| Spell | https://spell.run/developers| https://spell.run/pricing | $10 GPU credit on signup |
 |19|Rapid Switch|https://www.rapidswitch.com|[pricing](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/)|-|
 |20| Salamander|https://salamander.ai|https://salamander.ai|-|
 |21| Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
@@ -44,6 +44,7 @@ Last updated : 18 April 2019
 |31|One stop System|https://www.onestopsystems.com|-|-|
 |32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|[pricing](https://azure.microsoft.com/en-in/pricing/)| $200 [credits](https://azure.microsoft.com/en-us/free/)
 |33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
+|34| Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
 
 
 # Deploy your model as a Web app
