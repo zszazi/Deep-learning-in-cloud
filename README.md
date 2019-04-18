@@ -3,9 +3,9 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 
 
-Also get to know where you can [**deploy**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#deploy-your-model-as-a-web-app) your model to serve millions of people
+* Also get to know where you can [**deploy**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#deploy-your-model-as-a-web-app) your model to serve millions of people
 
-Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
+* Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
 Last updated : 18 April 2019
 
