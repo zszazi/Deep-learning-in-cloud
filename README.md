@@ -3,7 +3,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 
 
-Also get to know where you can **deploy** your model to serve millions of people
+Also get to know where you can **deploy**(https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#deploy-your-model-as-a-web-app) your model to serve millions of people
 
 Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
@@ -11,7 +11,7 @@ Last updated : 18 April 2019
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
-|1 | Google Colaboratory | https://colab.research.google.com | FREE | FREE FOREVER* | 
+|1 | Google Colaboratory❤️ | https://colab.research.google.com | FREE | FREE FOREVER* | 
 |2 | Kaggle Kernels |   https://www.kaggle.com |  FREE | FREE FOREVER* |
 |3| Tensorpad | https://www.tensorpad.com |  1080ti at $0.49/hour | 5 free GPU hours |
 |4| FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
@@ -61,7 +61,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 If you are a student or researcher you can get extra credts , contact the provider
 
 * Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/start_gradient.html#promotional-credit)
-* Are you having an GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
+* Do you have a GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
 * Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
 * Google Cloud Research program - gives **$5000+ credits** [link](https://lp.google-mkto.com/gcp-research-credits-FAQ.html)
 * AWS Cloud Credits for Research -[link](https://aws.amazon.com/research-credits/)
@@ -86,4 +86,4 @@ If you are a student or researcher you can get extra credts , contact the provid
 
  **PS**:Motivation for this repo - Cuz I dont have a GPU laptop so I keep on looking for free gpu providers and have bookmarked a lot of them , now I am sharing these with you
  
- Made with ❤️ 
+ Made with ❤️ for awesome AI community
