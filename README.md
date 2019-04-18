@@ -17,6 +17,10 @@ Last updated : 18 April 2019
 |4| FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
 |5| Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
 |6| nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | free $5 worth of cloud credits|
+|7| paperspace | https://www.paperspace.com | https://www.paperspace.com/pricing | - |
+|8| Overture |https://www.overture.ai | - | free credits on signup|
+|9| Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition/) |
+|10| Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
 
 
 
