@@ -89,4 +89,7 @@ If you are a student or researcher you can get extra credts , contact the provid
 
  **PS**:Motivation for this repo - Cuz I dont have a GPU laptop so I keep on looking for free gpu providers and have bookmarked a lot of them , now I am sharing these with you
  
- Made with ❤️ for awesome AI community
+ 
+ 
+ 
+  <p align="center"> Made with ❤️ for awesome AI community </p>
