@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 18 April 2019
+Last updated : 20 April 2019
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -45,6 +45,7 @@ Last updated : 18 April 2019
 |32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|[pricing](https://azure.microsoft.com/en-in/pricing/)| $200 [credits](https://azure.microsoft.com/en-us/free/)
 |33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
 |34| Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
+|35| Golem | https://golem.network | - |- |
 
 
 # Deploy your model as a Web app
@@ -73,6 +74,7 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Github Education pack - along with many offers has upto $110 credits for AWS - [link](https://education.github.com/pack)
 * Watch out on [fast.ai Forums](https://forums.fast.ai) to get coupon code for free credits
 * Valohai gives you an [researcher license](https://valohai.com/research-license/) for students and researchers
+* Want to use a **Super Computer** but don't have one, go for Golem - [Golem](https://golem.network) is a *decentralized marketplace for computing power*. It enables CPUs and GPUs to connect in a peer-to-peer network, enabling both application owners and individual users to rent resources from other users machines, so turbo charge your next model training.
 
 ## * Notes
 * Google colab and Kaggle kernels have limited session time 
