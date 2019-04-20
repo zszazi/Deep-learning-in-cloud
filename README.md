@@ -33,7 +33,7 @@ Last updated : 20 April 2019
 |20| Salamander|https://salamander.ai|https://salamander.ai|-|
 |21| Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
 |22| vscaler | https://www.vscaler.com |[on request](https://www.vscaler.com/private-cloud-appliance/)| -|
-|23| AWS Sagemaker |https://aws.amazon.com/sagemaker/ |[pricing](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
+|23| AWS Sagemaker |https://aws.amazon.com/sagemaker/ |[pricing](https://aws.amazon.com/sagemaker/pricing/| [Free plans](https://aws.amazon.com/free/) |
 |24| Exoscale |https://www.exoscale.com/gpu/|[pricing](https://www.exoscale.com/pricing/#/gpu/small) |-|
 |25|Cirrascale|http://www.cirrascale.com| [Work station](http://www.cirrascale.com/pricing_waas.php)|-|
 |26| Alibaba cloud |https://alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
