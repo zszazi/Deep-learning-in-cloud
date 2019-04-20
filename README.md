@@ -17,10 +17,10 @@ Last updated : 20 April 2019
 |4| FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
 |5| Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
 |6| Nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | free $5 worth of cloud credits|
-|7| paperspace | https://www.paperspace.com | https://www.paperspace.com/pricing | $10 credits |
+|7| paperspace | https://www.paperspace.com | [pricing](https://www.paperspace.com/pricing) | $10 credits |
 |8| Overture |https://www.overture.ai | - | free credits on signup|
 |9| Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition/) |
-|10| Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
+|10| Cloudalize | https://www.cloudalize.com | [pricing](https://www.cloudalize.com/pricing/) | - |
 |11|Deepcognition| https://deepcognition.ai | https://deepcognition.ai/products/ | Desktop version [free](https://deepcognition.ai/products/desktop/) to use |
 |12| GPUeater | https://gpueater.com | https://gpueater.com/#pricing | - |
 |13| Vast.ai| https://vast.ai | https://vast.ai/console/create/ | -|
