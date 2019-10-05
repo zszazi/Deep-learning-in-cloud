@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 20 April 2019
+Last updated : 5 October 2019
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -48,6 +48,7 @@ Last updated : 20 April 2019
 |35| Golem | https://golem.network | - |- |
 
 
+
 # Deploy your model as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
 
@@ -58,6 +59,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 |  3 | Digtal Ocean  | https://www.digitalocean.com  |  [pay as you go](https://www.digitalocean.com/pricing/) | free $100 credits with [github student pack](https://education.github.com/pack)|
 | 4 | Glitch | https://glitch.com |-|-|
 | 5 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available|
+|6 | Panini | https://panini.ai | https://panini.ai/#price | currently in beta free trial |
 
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
