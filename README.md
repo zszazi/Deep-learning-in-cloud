@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 5 October 2019
+Last updated : 12 December 2019
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -46,6 +46,7 @@ Last updated : 5 October 2019
 |33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
 |34| Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
 |35| Golem | https://golem.network | - |- |
+|36| Deepnote | https://www.deepnote.com/ | Currently in Beta | -|
 
 
 
