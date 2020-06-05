@@ -47,6 +47,7 @@ Last updated : 12 December 2019
 |34| Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
 |35| Golem | https://golem.network | - |- |
 |36| Deepnote | https://www.deepnote.com/ | Currently in Beta | -|
+|37| Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours | 
 
 
 
