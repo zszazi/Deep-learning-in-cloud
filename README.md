@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 12 December 2019
+Last updated : 5 June 2020
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
