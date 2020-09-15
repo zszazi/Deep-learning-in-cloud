@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 10 August 2020
+Last updated : 15 September 2020
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -49,7 +49,7 @@ Last updated : 10 August 2020
 |36| Deepnote | https://www.deepnote.com/ | Currently in Beta | -|
 |37| Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours | 
 |38| Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU Hours | Free 20 Compute Hours for Early access |
-
+|39| Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register)|
 
 
 # Deploy your model as a Web app
