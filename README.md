@@ -37,7 +37,7 @@ Last updated : 15 September 2020
 |24| Exoscale |https://www.exoscale.com/gpu/|[pricing](https://www.exoscale.com/pricing/#/gpu/small) |-|
 |25|Cirrascale|http://www.cirrascale.com| [Work station](http://www.cirrascale.com/pricing_waas.php)|-|
 |26| Alibaba cloud |https://alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
-|27|IBM Cloud|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)|$200 [credits](https://console.bluemix.net/registration/free)|
+|27|IBM Cloud|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.ibm.com/cloud/gpu)|$200 [credits](https://console.bluemix.net/registration/free)|
 |28|Google Cloud Platform|https://cloud.google.com/gpu/|https://cloud.google.com/pricing/|$300 [credits](https://cloud.google.com/free/)|
 |29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
 |30| Nvidia cloud|https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/|-|-|
