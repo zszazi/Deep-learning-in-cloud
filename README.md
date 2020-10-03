@@ -50,7 +50,7 @@ Last updated : 15 September 2020
 |37| Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours | 
 |38| Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU Hours | Free 20 Compute Hours for Early access |
 |39| Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register)|
-[40] Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
+|40| Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
 
 
 # Deploy your model as a Web app
