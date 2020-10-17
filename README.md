@@ -51,6 +51,7 @@ Last updated : 15 September 2020
 |38| Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU Hours | Free 20 Compute Hours for Early access |
 |39| Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register)|
 |40| Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
+|41| puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29 EUR/hour | Free cloud Kubernetes API, up to 10 GPUs per pod |
 
 
 # Deploy your model as a Web app
