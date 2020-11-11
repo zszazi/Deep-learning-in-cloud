@@ -52,6 +52,7 @@ Last updated : 17 October 2020
 |39| Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register)|
 |40| Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
 |41| puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29 EUR/hour | Free cloud Kubernetes API, up to 10 GPUs per pod |
+|42| datacrunch | https://datacrunch.io | V100 at $0.60/hour | - |
 
 
 # Deploy your model as a Web app
