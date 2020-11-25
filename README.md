@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 14 November 2020
+Last updated : 25 November 2020
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -66,6 +66,8 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | 4 | Glitch | https://glitch.com |-|-|
 | 5 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available|
 |6 | Panini | https://panini.ai | https://panini.ai/#price | currently in beta free trial |
+|7 | Deta | https://www.deta.sh/ | https://www.deta.sh/pricing | Free plan available |
+
 
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
