@@ -53,6 +53,7 @@ Last updated : 25 November 2020
 |40| Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
 |41| puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29 EUR/hour | Free cloud Kubernetes API, up to 10 GPUs per pod |
 |42| datacrunch | https://datacrunch.io | V100 at $0.60/hour | - |
+|43| Lambda Labs | https://lambdalabs.com/service/gpu-cloud | - |
 
 
 # Deploy your model as a Web app
