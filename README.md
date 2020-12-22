@@ -7,7 +7,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 25 November 2020
+Last updated : 22 December 2020
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -53,7 +53,8 @@ Last updated : 25 November 2020
 |40| Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
 |41| puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29 EUR/hour | Free cloud Kubernetes API, up to 10 GPUs per pod |
 |42| datacrunch | https://datacrunch.io | V100 at $0.60/hour | - |
-|43| Lambda Labs | https://lambdalabs.com/service/gpu-cloud | - |
+|43| Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascal from $1.50/hr | - |
+
 
 
 # Deploy your model as a Web app
