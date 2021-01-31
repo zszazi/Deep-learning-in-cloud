@@ -22,10 +22,10 @@ Last updated : 25 November 2020
 |  9 | Crestle | https://crestle.ai | https://crestle.ai/#pricing | 1 hour of free GPU usage on signup [fast.ai](https://course.fast.ai/start_crestle.html#pricing) |
 | 10 | DataCrunch | https://datacrunch.io | V100 at $0.60/h | - |
 | 11 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
-| 12 | Deep Cognition | https://deepcognition.ai | https://deepcognition.ai/products | Desktop version[free](https://deepcognition.ai/products/desktop/) to use |
+| 12 | Deep Cognition | https://deepcognition.ai | https://deepcognition.ai/products | Desktop version [free](https://deepcognition.ai/products/desktop/) to use |
 | 13 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
 | 14 | Exoscale | https://www.exoscale.com/gpu/ | [pricing](https://www.exoscale.com/pricing/#/gpu/small) | - |
-| 15 | FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
+| 15 | FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
 | 16 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
 | 17 | Golem | https://golem.network | - | - |
 | 18 | Google Cloud Platform | https://cloud.google.com/gpu/ | https://cloud.google.com/pricing/ | $300 [credits](https://cloud.google.com/free/) |
@@ -49,7 +49,7 @@ Last updated : 25 November 2020
 | 36 | Salamander | https://salamander.ai | https://salamander.ai | - |
 | 37 | Snark | https://snark.ai | https://scale.snark.ai/pricing | - |
 | 38 | Spell | https://spell.run/developers | https://spell.run/pricing | $10 GPU credit on signup |
-| 39 | Tensorpad | https://www.tensorpad.com | 1080tiat$0.49/hour | 5 free GPU hours |
+| 39 | Tensorpad | https://www.tensorpad.com | 1080Ti at $0.49/h | 5 free GPU hours |
 | 40 | Valohai | https://valohai.com | https://valohai.com/pricing/ | free trial avaliable |
 | 41 | Vast.ai | https://vast.ai | https://vast.ai/console/create/ | - |
 | 42 | Vector Dash (gaming) | https://vectordash.com | - | free 7 day plan |
