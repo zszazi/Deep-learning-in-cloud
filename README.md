@@ -9,51 +9,51 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 Last updated : 25 November 2020
 
- |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
-| ---|----------|---------| -------- | ----------|
-| 1 |  GoogleColaboratory❤️ | https://colab.research.google.com | FREE | FREEFOREVER* |
-| 2 |  KaggleKernels | https://www.kaggle.com | FREE | FREEFOREVER* |
-| 3 |  Alibabacloud | https://alibabacloud.com | [payasyougo](https://www.alibabacloud.com/product/gpu/pricing) | $300[credits](https://www.alibabacloud.com/campaign/free-trial) |
-| 4 |  AWSSagemaker | https://aws.amazon.com/sagemaker/ | [pricing](https://aws.amazon.com/sagemaker/pricing/) | [Freeplans](https://aws.amazon.com/free/) |
-| 5 |  Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing](https://azure.microsoft.com/en-in/pricing/) | $200[credits](https://azure.microsoft.com/en-us/free/) |
-| 6 |  Cirrascale | http://www.cirrascale.com | [Workstation](http://www.cirrascale.com/pricing_waas.php) | - |
-| 7 |  Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
-| 8 |  Clusterone | https://clusterone.com | https://clusterone.com/pricing | $25Signupcredit |
-| 9 |  Crestle | https://crestle.ai | https://crestle.ai/#pricing | 1houroffreeGPUusageonsignup[fast.ai](https://course.fast.ai/start_crestle.html#pricing) |
-| 10 |  datacrunch | https://datacrunch.io | V100at$0.60/hour | - |
-| 11 |  Dataiku | https://www.dataiku.com | - | [FreePlans](https://www.dataiku.com/dss/trynow/free-edition) |
-| 12 |  Deepcognition | https://deepcognition.ai | https://deepcognition.ai/products | Desktopversion[free](https://deepcognition.ai/products/desktop/)touse |
-| 13 |  Deepnote | https://www.deepnote.com/ | CurrentlyinBeta | - |
-| 14 |  Exoscale | https://www.exoscale.com/gpu/ | [pricing](https://www.exoscale.com/pricing/#/gpu/small) | - |
-| 15 |  FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free2GPUpowerupsin14days[trialplan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
-| 16 |  GenesisCloud | https://www.genesiscloud.com/ | 1080Tiat$0.30/hour | 166freeGPUhours |
-| 17 |  Golem | https://golem.network | - | - |
-| 18 |  GoogleCloudPlatform | https://cloud.google.com/gpu/ | https://cloud.google.com/pricing/ | $300[credits](https://cloud.google.com/free/) |
-| 19 |  GPUeater | https://gpueater.com | https://gpueater.com/#pricing | - |
-| 20 |  Hostkey | https://www.hostkey.com/ | GPUfrom90euros/month | freetrialsavailable |
-| 21 |  IBMCloud | https://www.ibm.com/cloud/gpu | [payasyougo](https://www.ibm.com/cloud/gpu) | $200[credits](https://console.bluemix.net/registration/free) |
-| 22 |  LambdaLabs | https://lambdalabs.com/service/gpu-cloud | - |
-| 23 |  Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
-| 24 |  NeuroAi | https://www.neuro-ai.co.uk/ | £2.50/h(onlypayfortraining/inferencetime) | £100[credits](https://dashboard.neuro-ai.co.uk/register) |
-| 25 |  Nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | free$5worthofcloudcredits |
-| 26 |  Nvidiacloud | https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/ | - | - |
-| 27 |  Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14dayfreetrial |
-| 28 |  Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
-| 29 |  OnestopSystem | https://www.onestopsystems.com | - | - |
-| 30 |  Overture | https://www.overture.ai | - | freecreditsonsignup |
-| 31 |  Paperspace | https://www.paperspace.com | https://gradient.paperspace.com/free-gpu | FreeGPUinstancesand$10creditstowardmorepowerfulpaidinstances |
-| 32 |  puzl.ee | https://puzl.ee/gpu-cloud | 2080Tiat0.29EUR/hour | FreecloudKubernetesAPI,upto10GPUsperpod |
-| 33 |  QBlocks | https://www.qblocks.cloud/ | $20package~100GPUHours | Free20ComputeHoursforEarlyaccess |
-| 34 |  RapidSwitch | https://www.rapidswitch.com | [pricing](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
-| 35 |  Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
-| 36 |  Salamander | https://salamander.ai | https://salamander.ai | - |
-| 37 |  Snark | https://snark.ai | https://scale.snark.ai/pricing | - |
-| 38 |  Spell | https://spell.run/developers | https://spell.run/pricing | $10GPUcreditonsignup |
-| 39 |  Tensorpad | https://www.tensorpad.com | 1080tiat$0.49/hour | 5freeGPUhours |
-| 40 |  Valohai | https://valohai.com | https://valohai.com/pricing/ | freetrialavaliable |
-| 41 |  Vast.ai | https://vast.ai | https://vast.ai/console/create/ | - |
-| 42 |  VectorDash(gaming) | https://vectordash.com | - | free7dayplan |
-| 43 |  vscaler | https://www.vscaler.com | [onrequest](https://www.vscaler.com/private-cloud-appliance/) | - |
+|  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
+| -- | ------------------- | --------------------------------- | ------- | ------------------------- |
+|  1 | Google Colaboratory | https://colab.research.google.com |  FREE   |        FREE FOREVER*      |
+|  2 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
+|  3 | Alibaba cloud | https://alibabacloud.com | [pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
+|  4 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
+|  5 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
+|  6 | Cirrascale | http://www.cirrascale.com | [Work station](http://www.cirrascale.com/pricing_waas.php) | - |
+|  7 | Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
+|  8 | Clusterone | https://clusterone.com | https://clusterone.com/pricing | $25 Sign up credit |
+|  9 | Crestle | https://crestle.ai | https://crestle.ai/#pricing | 1 hour of free GPU usage on signup [fast.ai](https://course.fast.ai/start_crestle.html#pricing) |
+| 10 | DataCrunch | https://datacrunch.io | V100 at $0.60/h | - |
+| 11 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
+| 12 | Deep Cognition | https://deepcognition.ai | https://deepcognition.ai/products | Desktop version[free](https://deepcognition.ai/products/desktop/) to use |
+| 13 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
+| 14 | Exoscale | https://www.exoscale.com/gpu/ | [pricing](https://www.exoscale.com/pricing/#/gpu/small) | - |
+| 15 | FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
+| 16 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
+| 17 | Golem | https://golem.network | - | - |
+| 18 | Google Cloud Platform | https://cloud.google.com/gpu/ | https://cloud.google.com/pricing/ | $300 [credits](https://cloud.google.com/free/) |
+| 19 | GPUeater | https://gpueater.com | https://gpueater.com/#pricing | - |
+| 20 | Hostkey | https://www.hostkey.com/ | GPU from 90 euros/month | free trials available |
+| 21 | IBM Cloud | https://www.ibm.com/cloud/gpu | [pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
+| 22 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | - |
+| 23 | Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
+| 24 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
+| 25 | Nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | free $5 worth of cloud credits |
+| 26 | Nvidia cloud | https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/ | - | - |
+| 27 | Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial |
+| 28 | Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
+| 29 | One Stop System | https://www.onestopsystems.com | - | - |
+| 30 | Overture | https://www.overture.ai | - | free credits on signup |
+| 31 | Paperspace | https://www.paperspace.com | https://gradient.paperspace.com/free-gpu | Free GPU instances and $10 credits toward more powerful paid instances |
+| 32 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| 33 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
+| 34 | Rapid Switch | https://www.rapidswitch.com | [pricing](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
+| 35 | Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
+| 36 | Salamander | https://salamander.ai | https://salamander.ai | - |
+| 37 | Snark | https://snark.ai | https://scale.snark.ai/pricing | - |
+| 38 | Spell | https://spell.run/developers | https://spell.run/pricing | $10 GPU credit on signup |
+| 39 | Tensorpad | https://www.tensorpad.com | 1080tiat$0.49/hour | 5 free GPU hours |
+| 40 | Valohai | https://valohai.com | https://valohai.com/pricing/ | free trial avaliable |
+| 41 | Vast.ai | https://vast.ai | https://vast.ai/console/create/ | - |
+| 42 | Vector Dash (gaming) | https://vectordash.com | - | free 7 day plan |
+| 43 | vscaler | https://www.vscaler.com | [onrequest](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 
 
@@ -67,8 +67,8 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | 3 | Glitch | https://glitch.com | - | - |
 | 4 | Heroku | https://www.heroku.com | https://www.heroku.com/pricing | [Free plan](https://www.heroku.com/free) (model<500MB)|
 | 5 | Panini | https://panini.ai | https://panini.ai/#price | currently in beta free trial |
-| 6 | Render | https://render.com | https://render.com/pricing |-|
-| 7 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available|
+| 6 | Render | https://render.com | https://render.com/pricing | - |
+| 7 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available |
 
 
 # Perks and offers
