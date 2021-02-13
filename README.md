@@ -7,68 +7,67 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 22 December 2020
+Last updated : 13 February 2020
 
- |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
-| ---|----------|---------| -------- | ----------|
-|1 | Google Colaboratory❤️ | https://colab.research.google.com | FREE | FREE FOREVER* | 
-|2 | Kaggle Kernels |   https://www.kaggle.com |  FREE | FREE FOREVER* |
-|3| Tensorpad | https://www.tensorpad.com |  1080ti at $0.49/hour | 5 free GPU hours |
-|4| FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
-|5| Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
-|6| Nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | free $5 worth of cloud credits|
-|7| Paperspace | https://www.paperspace.com | https://gradient.paperspace.com/free-gpu | Free GPU instances and $10 credits toward more powerful paid instances |
-|8| Overture |https://www.overture.ai | - | free credits on signup|
-|9| Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
-|10| Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
-|11|Deepcognition| https://deepcognition.ai | https://deepcognition.ai/products | Desktop version [free](https://deepcognition.ai/products/desktop/) to use |
-|12| GPUeater | https://gpueater.com | https://gpueater.com/#pricing | - |
-|13| Vast.ai| https://vast.ai | https://vast.ai/console/create/ | -|
-|14| Clusterone | https://clusterone.com | https://clusterone.com/pricing | $25 Sign up credit |
-|15| Snark | https://snark.ai | https://scale.snark.ai/pricing | - |
-|16| Crestle |https://crestle.ai | https://crestle.ai/#pricing| 1 hour of free GPU usage on sign up [fast.ai](https://course.fast.ai/start_crestle.html#pricing) |
-|17| Vector Dash(gaming) | https://vectordash.com |-| free 7 day plan|
-|18| Spell | https://spell.run/developers| https://spell.run/pricing | $10 GPU credit on signup |
-|19|Rapid Switch|https://www.rapidswitch.com|[pricing](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/)|-|
-|20| Salamander|https://salamander.ai|https://salamander.ai|-|
-|21| Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
-|22| vscaler | https://www.vscaler.com |[on request](https://www.vscaler.com/private-cloud-appliance/)| -|
-|23| AWS Sagemaker |https://aws.amazon.com/sagemaker/ |[pricing](https://aws.amazon.com/sagemaker/pricing/)| [Free plans](https://aws.amazon.com/free/) |
-|24| Exoscale |https://www.exoscale.com/gpu/|[pricing](https://www.exoscale.com/pricing/#/gpu/small) |-|
-|25|Cirrascale|http://www.cirrascale.com| [Work station](http://www.cirrascale.com/pricing_waas.php)|-|
-|26| Alibaba cloud |https://alibabacloud.com|[pay as you go](https://www.alibabacloud.com/product/gpu/pricing)| $300 [credits](https://www.alibabacloud.com/campaign/free-trial)
-|27|IBM Cloud|https://www.ibm.com/cloud/gpu|[pay as you go](https://www.ibm.com/cloud/gpu)|$200 [credits](https://console.bluemix.net/registration/free)|
-|28|Google Cloud Platform|https://cloud.google.com/gpu/|https://cloud.google.com/pricing/|$300 [credits](https://cloud.google.com/free/)|
-|29| Valohai|https://valohai.com| https://valohai.com/pricing/ | free trial avaliable|
-|30| Nvidia cloud|https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/|-|-|
-|31|One stop System|https://www.onestopsystems.com|-|-|
-|32| Azure|https://azure.microsoft.com/en-in/services/machine-learning-studio/|[pricing](https://azure.microsoft.com/en-in/pricing/)| $200 [credits](https://azure.microsoft.com/en-us/free/)
-|33| Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial|
-|34| Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
-|35| Golem | https://golem.network | - |- |
-|36| Deepnote | https://www.deepnote.com/ | Currently in Beta | -|
-|37| Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours | 
-|38| Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU Hours | Free 20 Compute Hours for Early access |
-|39| Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register)|
-|40| Hostkey | https://www.hostkey.com/ | GPU from 90 euros /month | free trials available|
-|41| puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29 EUR/hour | Free cloud Kubernetes API, up to 10 GPUs per pod |
-|42| datacrunch | https://datacrunch.io | V100 at $0.60/hour | - |
-|43| Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascal from $1.50/hr | - |
-
-
+|  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
+| -- | ------------------- | --------------------------------- | ------- | ------------------------- |
+|  1 | Google Colaboratory :heart: | https://colab.research.google.com |  FREE   |        FREE FOREVER*      |
+|  2 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
+|  3 | Alibaba cloud | https://alibabacloud.com | [pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
+|  4 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
+|  5 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
+|  6 | Cirrascale | http://www.cirrascale.com | [Work station](http://www.cirrascale.com/pricing_waas.php) | - |
+|  7 | Cloudalize | https://www.cloudalize.com | https://www.cloudalize.com/pricing/ | - |
+|  8 | Clusterone | https://clusterone.com | https://clusterone.com/pricing | $25 Sign up credit |
+|  9 | Crestle | https://crestle.ai | https://crestle.ai/#pricing |  |
+| 10 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | Fast.ai Spcial [Discount](https://course.fast.ai/start_datacrunch#pricing)  |
+| 11 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
+| 12 | Deep Cognition | https://deepcognition.ai | https://deepcognition.ai/products | Desktop version [free](https://deepcognition.ai/products/desktop/) to use |
+| 13 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
+| 14 | Exoscale | https://www.exoscale.com/gpu/ | [pricing](https://www.exoscale.com/pricing/#/gpu/small) | - |
+| 15 | FloydHub | https://www.floydhub.com | https://www.floydhub.com/pricing | free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
+| 16 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
+| 17 | Golem | https://golem.network | - | - |
+| 18 | Google Cloud Platform | https://cloud.google.com/gpu/ | https://cloud.google.com/pricing/ | $300 [credits](https://cloud.google.com/free/) |
+| 19 | GPUeater | https://gpueater.com | https://gpueater.com/#pricing | - |
+| 20 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | free trials available |
+| 21 | IBM Cloud | https://www.ibm.com/cloud/gpu | [pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
+| 22 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing_
+| 23 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
+| 24 | Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
+| 25 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
+| 26 | Nimblebox | https://nimblebox.ai | https://nimblebox.ai/plans | Free $10 worth of cloud credits |
+| 27 | Nvidia cloud | https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/ | - | - |
+| 28 | Omnisci | https://www.omnisci.com | https://www.omnisci.com/cloud | 14 day free trial |
+| 29 | Onepanel | https://www.onepanel.io | https://www.onepanel.io/pricing | - |
+| 30 | One Stop System | https://www.onestopsystems.com | - | - |
+| 31 | Overture | https://www.overture.ai | - | free credits on signup |
+| 32 | Paperspace | https://www.paperspace.com | https://gradient.paperspace.com/free-gpu | [Referal Program Available](https://www.paperspace.com/referral-program) |
+| 33 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| 34 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
+| 35 | Rapid Switch | https://www.rapidswitch.com | [pricing](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
+| 36 | Rendsolve | https://rendsolve.com | https://rendsolve.com/pricing | - |
+| 37 | Salamander | https://salamander.ai | https://salamander.ai | - |
+| 38 | Snark | https://snark.ai | https://scale.snark.ai/pricing | - |
+| 39 | Spell | https://spell.run/developers | https://spell.run/pricing | $10 GPU credit on signup |
+| 40 | Valohai | https://valohai.com | https://valohai.com/pricing/ | free trial avaliable |
+| 41 | Vast.ai | https://vast.ai | https://vast.ai/console/create/ | - |
+| 42 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
+| 43 | vscaler | https://www.vscaler.com | [onrequest](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 # Deploy your model as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
 
  |# | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
 | ---|----------|---------| -------- | ----------|
-| 1  | Render  | https://render.com  |  https://render.com/pricing |-|
-|  2 |  Heroku |  https://www.heroku.com |  https://www.heroku.com/pricing | [Free plan](https://www.heroku.com/free) (model<500MB)|
-|  3 | Digtal Ocean  | https://www.digitalocean.com  |  [pay as you go](https://www.digitalocean.com/pricing/) | free $100 credits with [github student pack](https://education.github.com/pack)|
-| 4 | Glitch | https://glitch.com |-|-|
-| 5 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available|
-|6 | Panini | https://panini.ai | https://panini.ai/#price | currently in beta free trial |
-|7 | Deta | https://www.deta.sh/ | https://www.deta.sh/pricing | Free plan available |
+| 1 | Deta | https://www.deta.sh/ | https://www.deta.sh/pricing | Free plan available |
+| 2 | Digital Ocean | https://www.digitalocean.com | [pay as you go](https://www.digitalocean.com/pricing/) | free $100 credits with [github student pack](https://education.github.com/pack)|
+| 3 | Glitch | https://glitch.com | - | - |
+| 4 | Heroku | https://www.heroku.com | https://www.heroku.com/pricing | [Free plan](https://www.heroku.com/free) (model<500MB)|
+| 5 | PythonEverywhere | https://www.pythonanywhere.com/ | https://www.pythonanywhere.com/pricing/ | Free Beginner Account Available |
+| 6 | Render | https://render.com | https://render.com/pricing | - |
+| 7 | Streamlit For Teams | https://www.streamlit.io/ | https://www.streamlit.io/for-teams | Currently in Beta ( Streamlit Cloud Tool ) |
+| 8 | Zeit | https://zeit.co | https://zeit.co/pricing | Free plan available |
 
 
 # Perks and offers
@@ -94,8 +93,6 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Most of the gpu providers run on top of AWS , GCP etc so may have more or less same pricing as the latter
 * Information given above is best to my searching ability , you may recheck with the provider for pricing and other info
 * [license](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/LICENSE)
-
-* Check out my other repo where I put together Awesome google colab notebook - [link](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
 
  
  
