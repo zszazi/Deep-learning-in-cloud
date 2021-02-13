@@ -5,7 +5,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Also get to know where you can [**deploy**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#deploy-your-model-as-a-web-app) your model to serve millions of people
 
-* :new: List of **MLOps Platforms** [Section](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#mlops-platforms)
+* :new: List of [**MLOps Platforms**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#mlops-platforms) for complete Machine Leaning LifeCycle  :recycle:
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
@@ -36,7 +36,7 @@ Last updated : 13 February 2020
 | 21 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
 | 22 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
 | 23 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
-| 24 | Leadergpu | https://www.leadergpu.com | https://www.leadergpu.com | - |
+| 24 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | 25 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
 | 26 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
 | 27 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
