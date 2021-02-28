@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 13 February 2020
+Last updated : 28 February 2020
 
 |  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | -- | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -56,6 +56,8 @@ Last updated : 13 February 2020
 | 41 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 | 42 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
 | 43 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
+| 44 | GPU.LAND | https://gpu.land/ | $0.99/hr for Tesla V100 | - |
+
 
 # Deploy your model as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
