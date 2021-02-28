@@ -56,6 +56,8 @@ Last updated : 13 February 2020
 | 41 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 | 42 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
 | 43 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
+| 44 | GPU.LAND | https://gpu.land/ | $0.99/hr for Tesla V100 | - |
+
 
 # Deploy your model as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
