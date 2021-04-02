@@ -32,31 +32,32 @@ Last updated : 28 February 2021
 | 17 | Golem | https://golem.network | - | - |
 | 18 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
 | 19 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
-| 20 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
-| 21 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
-| 22 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
-| 23 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
-| 24 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
-| 25 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
-| 26 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
-| 27 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
-| 28 | Omnisci | https://www.omnisci.com | [pricing :label: ](https://www.omnisci.com/cloud) | 14 day free trial |
-| 29 | Onepanel | https://www.onepanel.io | [pricing :label: ](https://www.onepanel.io/pricing) | - |
-| 30 | One Stop System | https://www.onestopsystems.com | - | - |
-| 31 | Overture | https://www.overture.ai | - | Free credits on signup |
-| 32 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
-| 33 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
-| 34 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
-| 35 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
-| 36 | Rendsolve | https://rendsolve.com | [pricing :label: ](https://rendsolve.com/pricing) | - |
-| 37 | Salamander | https://salamander.ai | [pricing :label: ](https://salamander.ai) | - |
-| 38 | Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
-| 39 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
-| 40 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | Free trial avaliable |
-| 41 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
-| 42 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
-| 43 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
-| 44 | GPU.LAND | https://gpu.land/ | $0.99/hr for Tesla V100 | - |
+| 20 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
+| 21 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
+| 22 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
+| 23 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
+| 24 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
+| 25 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
+| 26 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
+| 27 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
+| 28 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
+| 29 | Omnisci | https://www.omnisci.com | [pricing :label: ](https://www.omnisci.com/cloud) | 14 day free trial |
+| 30 | Onepanel | https://www.onepanel.io | [pricing :label: ](https://www.onepanel.io/pricing) | - |
+| 31 | One Stop System | https://www.onestopsystems.com | - | - |
+| 32 | Overture | https://www.overture.ai | - | Free credits on signup |
+| 33 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
+| 34 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| 35 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
+| 36 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
+| 37 | Rendsolve | https://rendsolve.com | [pricing :label: ](https://rendsolve.com/pricing) | - |
+| 38 | Salamander | https://salamander.ai | [pricing :label: ](https://salamander.ai) | - |
+| 39 | Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
+| 40 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
+| 41 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | Free trial avaliable |
+| 42 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
+| 43 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
+| 44 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
+| 45 | GPU.LAND | https://gpu.land/ | $0.99/hr for Tesla V100 | - |
 
 
 # Deploy your model as a Web app
