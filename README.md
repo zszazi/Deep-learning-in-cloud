@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 3 April 2021
+Last updated : 4 May 2021
 
 |  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | -- | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -98,6 +98,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | 15 | Algo | https://www.algomox.com/mlops/ | - | Free Edition Available | 
 | 16 | MLOps.Cloud| https://www.mlops.cloud/ | [pricing :label: ](https://www.mlops.cloud/pricing) | - |
 | 17 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
+| 18 | Arrikto | https://www.arrikto.com/ | - | - |
 
 
 # Perks and offers
