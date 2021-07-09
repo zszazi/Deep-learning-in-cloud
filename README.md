@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 4 July 2021
+Last updated : 9 July 2021
 
 |  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | -- | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -73,6 +73,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | 6 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
 | 7 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
 | 8 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
+| 9 | Calcify | https://calcify.io/ | Nvidia K520 at $1.39/hr | - |
 
 # MLOps Platforms
 A Beautiful marriage :ring: between Machine Learning and DevOps ( A Match Made in Heaven )
