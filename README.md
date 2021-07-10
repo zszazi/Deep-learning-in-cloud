@@ -94,14 +94,15 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | 10 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | 11 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
 | 12 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | Free GPUs by [Gradient](https://gradient.paperspace.com/free-gpu) | 
-| 13 | Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
-| 14 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
-| 15 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
-| 16 | MLOps.Cloud| https://www.mlops.cloud/ | [pricing :label: ](https://www.mlops.cloud/pricing) | - |
-| 17 | MLReef | https://about.mlreef.com/ | - |Open Source [:octocat: Link ](https://github.com/MLReef/mlreef) |
-| 18 | Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
-| 19 | Neu.ro | https://neu.ro/ | - | - | 
-| 20 | Seldon Core | https://www.seldon.io/tech/products/core/ | - | - |
+| 13 | Grid.ad | https://www.grid.ai/ | [pricing :label: ](https://www.grid.ai/pricing/) | $25 free credits + special promo for researchers! |
+| 14 | Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
+| 15 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
+| 16 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
+| 17 | MLOps.Cloud| https://www.mlops.cloud/ | [pricing :label: ](https://www.mlops.cloud/pricing) | - |
+| 18 | MLReef | https://about.mlreef.com/ | - |Open Source [:octocat: Link ](https://github.com/MLReef/mlreef) |
+| 19 | Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
+| 20 | Neu.ro | https://neu.ro/ | - | - | 
+| 21 | Seldon Core | https://www.seldon.io/tech/products/core/ | - | - |
 
 
 # Perks and offers
