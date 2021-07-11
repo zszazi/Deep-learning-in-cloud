@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 9 July 2021
+Last updated : 11 July 2021
 
 |  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | -- | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -65,15 +65,14 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
  |# | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
 | ---|----------|---------| -------- | ----------|
 |  1 | Calcify | https://calcify.io/ | Nvidia K520 at $1.39/hr | - |
-|  2 | ClearML | https://clear.ml/ | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
-|  3 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
-|  4 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
-|  5 | Glitch | https://glitch.com | - | - |
-|  6 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
-|  7 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
-|  8 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
-|  9 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
-| 10 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
+|  2 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
+|  3 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
+|  4 | Glitch | https://glitch.com | - | - |
+|  5 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
+|  6 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
+|  7 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
+|  8 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
+|  9 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
 
 # MLOps Platforms
 A Beautiful marriage :ring: between Machine Learning and DevOps ( A Match Made in Heaven )
@@ -95,7 +94,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | 11 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | 12 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
 | 13 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | Free GPUs by [Gradient](https://gradient.paperspace.com/free-gpu) | 
-| 14 | Grid.ad | https://www.grid.ai/ | [pricing :label: ](https://www.grid.ai/pricing/) | $25 free credits + special promo for researchers! |
+| 14 | Grid.ai | https://www.grid.ai/ | [pricing :label: ](https://www.grid.ai/pricing/) | $25 free credits + special promo for researchers! |
 | 15 | Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
 | 16 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
 | 17 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
