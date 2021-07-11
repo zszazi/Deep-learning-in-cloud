@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 9 July 2021
+Last updated : 11 July 2021
 
 |  # |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | -- | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -57,7 +57,6 @@ Last updated : 9 July 2021
 | 42 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 | 43 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
 | 44 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
-| 45 | GPU.LAND | https://gpu.land/ | $0.99/hr for Tesla V100 | - |
 
 
 # Deploy your model as a Web app
@@ -65,15 +64,15 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 
  |# | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
 | ---|----------|---------| -------- | ----------|
-| 1 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
-| 2 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
-| 3 | Glitch | https://glitch.com | - | - |
-| 4 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
-| 5 | PythonEverywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
-| 6 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
-| 7 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
-| 8 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
-| 9 | Calcify | https://calcify.io/ | Nvidia K520 at $1.39/hr | - |
+|  1 | Calcify | https://calcify.io/ | Nvidia K520 at $1.39/hr | - |
+|  2 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
+|  3 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
+|  4 | Glitch | https://glitch.com | - | - |
+|  5 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
+|  6 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
+|  7 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
+|  8 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
+|  9 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
 
 # MLOps Platforms
 A Beautiful marriage :ring: between Machine Learning and DevOps ( A Match Made in Heaven )
@@ -82,26 +81,28 @@ Working on Serious Enterprise Level projects that has potential to serve million
 
 |  # |     Project / Platform    |              Website              | Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
-| 1 | Allegro | https://www.allegro.ai/ | [pricing :label: - for enterprise](https://www.allegro.ai/enterprise/)| Open Source & Enterprise Version |
-| 2 | Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
-| 3 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
-| 4 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
-| 5 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
-| 6 | DataRobot | https://www.datarobot.com/platform/mlops/ | - | $500 of free usage credits across products |
-| 7 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
-| 8 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | Free GPUs by [Gradient](https://gradient.paperspace.com/free-gpu) | 
-| 9 | Ezmeral from HP | Solution from [HP](https://www.hpe.com/in/en/solutions/machine-learning-operations.html) | - |
-| 10 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
-| 11 | Seldon Core | https://www.seldon.io/tech/products/core/ | - | - |
-| 12 | Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/pricing/) | - |
-| 13 | Akira.ai | https://www.akira.ai/mlops-platform/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
-| 14 | Neu.ro | https://neu.ro/ | - | - | 
-| 15 | Algo | https://www.algomox.com/mlops/ | - | Free Edition Available | 
-| 16 | MLOps.Cloud| https://www.mlops.cloud/ | [pricing :label: ](https://www.mlops.cloud/pricing) | - |
-| 17 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
-| 18 | Arrikto | https://www.arrikto.com/ | - | - |
-| 19 | Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
-| 20 | MLReef | https://about.mlreef.com/ | - |Open Source [:octocat: Link ](https://github.com/MLReef/mlreef) |
+|  1 | Akira.ai | https://www.akira.ai/mlops-platform/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
+|  2 | Algo | https://www.algomox.com/mlops/ | - | Free Edition Available | 
+|  3 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
+|  4 | Allegro | https://www.allegro.ai/ | [pricing :label: - for enterprise](https://www.allegro.ai/enterprise/)| Open Source & Enterprise Version |
+|  5 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
+|  6 | Arrikto | https://www.arrikto.com/ | - | - |
+|  7 | ClearML | https://clear.ml | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
+|  8 | Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/pricing/) | - |
+|  9 | DataRobot | https://www.datarobot.com/platform/mlops/ | - | $500 of free usage credits across products |
+| 10 | Ezmeral from HP | Solution from [HP](https://www.hpe.com/in/en/solutions/machine-learning-operations.html) | - |
+| 11 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
+| 12 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
+| 13 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | Free GPUs by [Gradient](https://gradient.paperspace.com/free-gpu) | 
+| 14 | Grid.ai | https://www.grid.ai/ | [pricing :label: ](https://www.grid.ai/pricing/) | $25 free credits + special promo for researchers! |
+| 15 | Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
+| 16 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
+| 17 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
+| 18 | MLOps.Cloud| https://www.mlops.cloud/ | [pricing :label: ](https://www.mlops.cloud/pricing) | - |
+| 19 | MLReef | https://about.mlreef.com/ | - |Open Source [:octocat: Link ](https://github.com/MLReef/mlreef) |
+| 20 | Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
+| 21 | Neu.ro | https://neu.ro/ | - | - | 
+| 22 | Seldon Core | https://www.seldon.io/tech/products/core/ | - | - |
 
 
 # Perks and offers
