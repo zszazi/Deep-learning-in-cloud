@@ -82,7 +82,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 |  # |     Project / Platform    |              Website              | Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
 |  1 | Akira.ai | https://www.akira.ai/mlops-platform/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
-|  2 | Algo | https://www.algomox.com/mlops/ | - | Free Edition Available | 
+|  2 | Algo | https://www.algomox.com/aiops | - | Free Edition Available | 
 |  3 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
 |  4 | Allegro | https://www.allegro.ai/ | [pricing :label: - for enterprise](https://www.allegro.ai/enterprise/)| Open Source & Enterprise Version |
 |  5 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
