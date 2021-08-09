@@ -26,37 +26,38 @@ Last updated : 11 July 2021
 | 11 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
 | 12 | Deep Cognition | https://deepcognition.ai | [pricing :label: ](https://deepcognition.ai/products) | Desktop version [free](https://deepcognition.ai/products/desktop/) to use |
 | 13 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
-| 14 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
-| 15 | FloydHub | https://www.floydhub.com | [pricing :label: ](https://www.floydhub.com/pricing) | Free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
-| 16 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
-| 17 | Golem | https://golem.network | - | - |
-| 18 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
-| 19 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
-| 20 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
-| 21 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
-| 22 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
-| 23 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
-| 24 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
-| 25 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
-| 26 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
-| 27 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
-| 28 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
-| 29 | Omnisci | https://www.omnisci.com | [pricing :label: ](https://www.omnisci.com/cloud) | 14 day free trial |
-| 30 | Onepanel | https://www.onepanel.io | [pricing :label: ](https://www.onepanel.io/pricing) | - |
-| 31 | One Stop System | https://www.onestopsystems.com | - | - |
-| 32 | Overture | https://www.overture.ai | - | Free credits on signup |
-| 33 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
-| 34 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
-| 35 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
-| 36 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
-| 37 | Rendsolve | https://rendsolve.com | [pricing :label: ](https://rendsolve.com/pricing) | - |
-| 38 | Salamander | https://salamander.ai | [pricing :label: ](https://salamander.ai) | - |
-| 39 | Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
-| 40 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
-| 41 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | Free trial avaliable |
-| 42 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
-| 43 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
-| 44 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
+| 14 | Examesh.de | https://examesh.de/en/ | - | 15min of NVIDIA Tesla V100 32 GB |
+| 15 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
+| 16 | FloydHub | https://www.floydhub.com | [pricing :label: ](https://www.floydhub.com/pricing) | Free 2 GPU powerups in 14 days [trial plan](https://docs.floydhub.com/faqs/plans/#what-is-in-the-trial-plan) |
+| 17 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
+| 18 | Golem | https://golem.network | - | - |
+| 19 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
+| 20 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
+| 21 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
+| 22 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
+| 23 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
+| 24 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
+| 25 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
+| 26 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
+| 27 | Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
+| 28 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
+| 29 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
+| 30 | Omnisci | https://www.omnisci.com | [pricing :label: ](https://www.omnisci.com/cloud) | 14 day free trial |
+| 31 | Onepanel | https://www.onepanel.io | [pricing :label: ](https://www.onepanel.io/pricing) | - |
+| 32 | One Stop System | https://www.onestopsystems.com | - | - |
+| 33 | Overture | https://www.overture.ai | - | Free credits on signup |
+| 34 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
+| 35 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| 36 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
+| 37 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
+| 38 | Rendsolve | https://rendsolve.com | [pricing :label: ](https://rendsolve.com/pricing) | - |
+| 39 | Salamander | https://salamander.ai | [pricing :label: ](https://salamander.ai) | - |
+| 40 | Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
+| 41 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
+| 42 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | Free trial avaliable |
+| 43 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
+| 44 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
+| 45 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 
 # Deploy your model as a Web app
