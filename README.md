@@ -60,15 +60,14 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 
  |# | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
 | ---|----------|---------| -------- | ----------|
-|  1 | Calcify | https://calcify.io/ | Nvidia K520 at $1.39/hr | - |
-|  2 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
-|  3 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
-|  4 | Glitch | https://glitch.com | - | - |
-|  5 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
-|  6 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
-|  7 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
-|  8 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
-|  9 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
+|  1 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
+|  2 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
+|  3 | Glitch | https://glitch.com | - | - |
+|  4 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
+|  5 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
+|  6 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
+|  7 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
+|  8 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
 
 # MLOps Platforms
 A Beautiful marriage :ring: between Machine Learning and DevOps ( A Match Made in Heaven )
