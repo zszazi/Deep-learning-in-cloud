@@ -49,10 +49,9 @@ Last updated : 11 August 2021
 | 34 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | 35 | Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
 | 36 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
-| 37 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | Free trial avaliable |
-| 38 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
-| 39 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
-| 40 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
+| 37 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
+| 38 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
+| 39 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 
 # Deploy your model as a Web app
@@ -98,6 +97,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | 20 | Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
 | 21 | Neu.ro | https://neu.ro/ | - | - | 
 | 22 | Seldon Core | https://www.seldon.io/tech/products/core/ | - | - |
+| 23 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
 
 
 # Perks and offers
@@ -115,7 +115,6 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Google cloud Education Grant - [link](https://cloud.google.com/edu/)
 * Github Education pack - along with many offers has upto $110 credits for AWS - [link](https://education.github.com/pack)
 * Watch out on [fast.ai Forums](https://forums.fast.ai) to get coupon code for free credits
-* Valohai gives you an [researcher license](https://valohai.com/research-license/) for students and researchers
 * Want to use a **Super Computer** but don't have one, go for Golem - [Golem](https://golem.network) is a *decentralized marketplace for computing power*. It enables CPUs and GPUs to connect in a peer-to-peer network, enabling both application owners and individual users to rent resources from other users machines, so turbo charge your next model training.
 * Hostkey provides grants for research, startups and competition winners [link](http://landing.hostkey.com/grants?_ga=2.97657560.698124560.1601686650-92114674.1598899517)
 
