@@ -44,7 +44,7 @@ Last updated : 11 August 2021
 | 29 | Onepanel | https://www.onepanel.io | [pricing :label: ](https://www.onepanel.io/pricing) | - |
 | 30 | One Stop System | https://www.onestopsystems.com | - | - |
 | 31 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
-| 32 | puzl.ee | https://puzl.ee/gpu-cloud | 2080Ti at 0.29EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| 32 | puzl.ee | https://puzl.ee/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
 | 33 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | 34 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | 35 | Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
