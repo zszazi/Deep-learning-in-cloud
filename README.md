@@ -15,6 +15,7 @@ Last updated : 22 March 2022
 | ------------------- | --------------------------------- | ------- | ------------------------- |
 | Google Colaboratory :heart: | https://colab.research.google.com |  FREE   |        FREE FOREVER*      |
 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
+| Activeloop | https://www.activeloop.ai | - | - |
 | Alibaba cloud | https://alibabacloud.com | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
@@ -44,7 +45,6 @@ Last updated : 22 March 2022
 | puzl.ee | https://puzl.ee/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
 | Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
-| Snark | https://snark.ai | [pricing :label: ](https://scale.snark.ai/pricing) | - |
 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
