@@ -37,11 +37,8 @@ Last updated : 22 March 2022
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| - | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
-| Neuro Ai | https://www.neuro-ai.co.uk/ | £2.50/h (only pay for training/inference time) | £100 [credits](https://dashboard.neuro-ai.co.uk/register) |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
-| Omnisci | https://www.omnisci.com | [pricing :label: ](https://www.omnisci.com/cloud) | 14 day free trial |
-| Onepanel | https://www.onepanel.io | [pricing :label: ](https://www.onepanel.io/pricing) | - |
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
 | puzl.ee | https://puzl.ee/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
