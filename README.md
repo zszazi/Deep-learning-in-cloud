@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 26 April 2022
+Last updated : 18 September 2022
 
 |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -43,12 +43,11 @@ Last updated : 26 April 2022
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
 | puzl.ee | https://puzl.ee/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
-| Q Blocks | https://www.qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
+| Q Blocks | https://qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
-| Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 
@@ -78,22 +77,22 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
 | Allegro | https://www.allegro.ai/ | [pricing :label: - for enterprise](https://www.allegro.ai/enterprise/)| Open Source & Enterprise Version |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
-| Arrikto | https://www.arrikto.com/ | - | - |
+| Arrikto | https://arrikto.com/ | - | - |
 | ClearML | https://clear.ml | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
 | Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/pricing/) | - |
 | DataRobot | https://www.datarobot.com/platform/mlops/ | - | $500 of free usage credits across products |
-| Ezmeral from HP | Solution from [HP](https://www.hpe.com/in/en/solutions/machine-learning-operations.html) | - |
 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | Free GPUs by [Gradient](https://gradient.paperspace.com/free-gpu) | 
-| Grid.ai | https://www.grid.ai/ | [pricing :label: ](https://www.grid.ai/pricing/) | $25 free credits + special promo for researchers! |
-| Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
+| Grid.ai | https://grid.ai/ | [pricing :label: ](https://grid.ai/pricing/) | $25 free credits + special promo for researchers! |
+| HPE - Ezmeral| Solution from [HP](https://www.hpe.com/us/en/solutions/ezmeral-machine-learning-operations.html) | - |
+| HPE - GreenLake | Solution from [HP](https://www.hpe.com/us/en/greenlake/ml-ops.html) | - |
+| Iguazio | https://iguazio.com/mlops/ | - | 14 Day Free Trial |
 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
-| MLReef | https://about.mlreef.com/ | - |Open Source [:octocat: Link ](https://github.com/MLReef/mlreef) |
 | Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
 | Neu.ro | https://neu.ro/ | - | - | 
-| Seldon Core | https://www.seldon.io/tech/products/core/ | - | - |
+| Seldon Core | https://seldon.io/tech/products/core/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
 
 
@@ -104,7 +103,7 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/start_gradient.html#promotional-credit)
 * Do you have a GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
 * Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
-* Google Cloud Research program - gives **$5000+ credits** [link](https://lp.google-mkto.com/gcp-research-credits-FAQ.html)
+
 * AWS Cloud Credits for Research -[link](https://aws.amazon.com/research-credits/)
 * Nvidia GPU Grant Program- [link](https://developer.nvidia.com/academic_gpu_seeding)
 * **If you are a Startup** then google has you covered wth Startup Program giving you credits from **$1000 to $100000** - [link](https://cloud.google.com/developers/startups/)
