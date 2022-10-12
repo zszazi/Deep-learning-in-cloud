@@ -9,7 +9,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 * Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 18 September 2022
+Last updated : 10 October 2022
 
 |     Cloud vendor    |              Website              | Pricing | Free Trial / Free Credits | 
 | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -38,7 +38,7 @@ Last updated : 18 September 2022
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| [Reserved Instance Discounts](https://lambdalabs.com/service/gpu-cloud/pricing) | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
-| Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/plans) | Free $10 worth of cloud credits |
+| Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
