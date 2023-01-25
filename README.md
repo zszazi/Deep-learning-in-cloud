@@ -78,6 +78,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
 | Allegro | https://www.allegro.ai/ | [pricing :label: - for enterprise](https://www.allegro.ai/enterprise/)| Open Source & Enterprise Version |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
+| Arize AI | https://arize.com/ | [pricing :label: ](https://arize.com/pricing/) | Free tier available |
 | Arrikto | https://arrikto.com/ | - | - |
 | ClearML | https://clear.ml | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
 | Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/pricing/) | - |
