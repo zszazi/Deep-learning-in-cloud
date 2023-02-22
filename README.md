@@ -36,7 +36,7 @@ Last updated : 25 January 2023
 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
-| Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| [Reserved Instance Discounts](https://lambdalabs.com/service/gpu-cloud/pricing) | 
+| [Lambda](https://lambdalabs.com/) | https://lambdalabs.com/service/gpu-cloud | [Starting at $0.60/hr for a 1x A10](https://lambdalabs.com/service/gpu-cloud#pricing) | - | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
