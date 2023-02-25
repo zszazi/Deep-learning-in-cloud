@@ -15,6 +15,7 @@ Last updated : 25 January 2023
 | ------------------- | --------------------------------- | ------- | ------------------------- |
 | Google Colaboratory :heart: | https://colab.research.google.com |  FREE   |        FREE FOREVER*      |
 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
+| Ace Cloud | [acecloudhosting.com](https://www.acecloudhosting.com/) | [pay as you go](https://www.acecloudhosting.com/public-cloud/pricing/) | [$300 credits] (https://www.acecloudhosting.com/public-cloud/gpu/) |
 | Activeloop | https://www.activeloop.ai | - | - |
 | Alibaba cloud | https://alibabacloud.com | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
