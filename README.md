@@ -20,10 +20,9 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
 | Cirrascale | http://www.cirrascale.com | [pricing :label:](http://www.cirrascale.com/pricing_waas.php) | - |
 | Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
-| Crestle | https://crestle.ai | [pricing :label: ](https://crestle.ai/#pricing) | - |
 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | Fast.ai Special [Discount](https://course.fast.ai/start_datacrunch#pricing)  |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
-| Deep Cognition | https://deepcognition.ai | [pricing :label: ](https://deepcognition.ai/products) | Desktop version [free](https://deepcognition.ai/products/desktop/) to use |
+| Deep Cognition | https://deepcognition.ai | [pricing :label: ](https://deepcognition.ai/products) | - |
 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
 | Examesh.de | https://examesh.de/en/ | - | 15min of NVIDIA Tesla V100 32 GB |
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
@@ -45,7 +44,6 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Q Blocks | https://qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | RunPod | https://www.runpod.io/gpu-instance | [pricing :label: ](https://www.runpod.io/gpu-instance/pricing) | - |
-| Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
@@ -75,16 +73,15 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Akira.ai | https://www.akira.ai/mlops-platform/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
 | Algo | https://www.algomox.com/aiops | - | Free Edition Available | 
 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
-| Allegro | https://www.allegro.ai/ | [pricing :label: - for enterprise](https://www.allegro.ai/enterprise/)| Open Source & Enterprise Version |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
 | Arize AI | https://arize.com/ | [pricing :label: ](https://arize.com/pricing/) | Free tier available |
 | Arrikto | https://arrikto.com/ | - | - |
 | ClearML | https://clear.ml | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
-| Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/pricing/) | - |
+| Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/plans/) | - |
 | DataRobot | https://www.datarobot.com/platform/mlops/ | - | $500 of free usage credits across products |
 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
-| Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | Free GPUs by [Gradient](https://gradient.paperspace.com/free-gpu) | 
+| Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | - | 
 | Grid.ai | https://grid.ai/ | [pricing :label: ](https://grid.ai/pricing/) | $25 free credits + special promo for researchers! |
 | HPE - Ezmeral| Solution from [HP](https://www.hpe.com/us/en/solutions/ezmeral-machine-learning-operations.html) | - |
 | HPE - GreenLake | Solution from [HP](https://www.hpe.com/us/en/greenlake/ml-ops.html) | - |
@@ -101,7 +98,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 If you are a student or researcher you can get extra credts , contact the provider
 
 * Examesh supports Public Research for free and gives special discount to long-term bookings.
-* Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/start_gradient.html#promotional-credit)
+* Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/Resources/kaggle.html)
 * Do you have a GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
 * Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
 
