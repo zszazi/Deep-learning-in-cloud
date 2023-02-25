@@ -22,7 +22,6 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | - |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
-| Deep Cognition | https://deepcognition.ai | [pricing :label: ](https://deepcognition.ai/products) | - |
 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
 | Examesh.de | https://examesh.de/en/ | - | 15min of NVIDIA Tesla V100 32 GB |
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
