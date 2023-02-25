@@ -20,7 +20,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
 | Cirrascale | http://www.cirrascale.com | [pricing :label:](http://www.cirrascale.com/pricing_waas.php) | - |
 | Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
-| DataCrunch | https://datacrunch.io | V100 at $0.69/h | Fast.ai Special [Discount](https://course.fast.ai/start_datacrunch#pricing)  |
+| DataCrunch | https://datacrunch.io | V100 at $0.69/h | - |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
 | Deep Cognition | https://deepcognition.ai | [pricing :label: ](https://deepcognition.ai/products) | - |
 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
@@ -33,7 +33,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
-| Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
+| Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
 | [Lambda](https://lambdalabs.com/) | https://lambdalabs.com/service/gpu-cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambdalabs.com/service/gpu-cloud#pricing) | - | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
