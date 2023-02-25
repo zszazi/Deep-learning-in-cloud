@@ -13,7 +13,8 @@ jobs:
       
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1
+        # temporary workaround
+        uses: InCogNiTo124/lychee-action@77af99d
         with:
           args: README.md
          
