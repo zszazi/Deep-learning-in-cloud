@@ -1,10 +1,12 @@
+name: Check markdown links
+
 on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
     # every sunday at 12:00
     - cron: "00 12 * * 0"  # https://crontab.guru/#00_12_*_*_0
-name: Check markdown links
+
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
@@ -13,13 +15,14 @@ jobs:
       
       - name: Link Checker
         id: lychee
-        # temporary workaround
-        uses: InCogNiTo124/lychee-action@77af99d60df40f14642684200f8c1e9af39b71ab
+        uses: lycheeverse/lychee-action@v1.6.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: README.md
          
       - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
+        if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: "[Bot] Broken Links Report"
