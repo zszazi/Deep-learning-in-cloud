@@ -14,7 +14,7 @@ jobs:
       - name: Link Checker
         id: lychee
         # temporary workaround
-        uses: InCogNiTo124/lychee-action@77af99d
+        uses: InCogNiTo124/lychee-action@77af99d60df40f14642684200f8c1e9af39b71ab
         with:
           args: README.md
          
