@@ -11,11 +11,11 @@ jobs:
   linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.6.1
+        uses: lycheeverse/lychee-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -23,7 +23,7 @@ jobs:
          
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
+        uses: peter-evans/create-issue-from-file@master
         with:
           title: "[Bot] Broken Links Report"
           content-filepath: ./lychee/out.md
