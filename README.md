@@ -23,7 +23,6 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | - |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
-| Examesh.de | https://examesh.de/en/ | - | 15min of NVIDIA Tesla V100 32 GB |
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
 | Golem | https://golem.network | - | - |
@@ -45,7 +44,6 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | RunPod | https://www.runpod.io/gpu-instance | [pricing :label: ](https://www.runpod.io/gpu-instance/pricing) | - |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
-| vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 
 # Deploy your model as a Web app
@@ -70,7 +68,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 |     Project / Platform    |              Website              | Pricing | Free Trial / Free Credits | 
 |----------|---------| -------- | ----------|
 | Akira.ai | https://www.akira.ai/mlops-platform/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
-| Algo | https://www.algomox.com/aiops | - | Free Edition Available | 
+| Algo | https://www.algomox.com/what-is-aiops | - | Free Edition Available | 
 | Algorithmia | https://algorithmia.com/ | [pricing :label: ](https://algorithmia.com/pricing) | - |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
 | Arize AI | https://arize.com/ | [pricing :label: ](https://arize.com/pricing/) | Free tier available |
@@ -96,7 +94,6 @@ Working on Serious Enterprise Level projects that has potential to serve million
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
 
-* Examesh supports Public Research for free and gives special discount to long-term bookings.
 * Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/Resources/kaggle.html)
 * Do you have a GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
 * Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
