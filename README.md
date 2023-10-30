@@ -80,6 +80,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | - | 
 | Grid.ai | https://grid.ai/ | [pricing :label: ](https://grid.ai/pricing/) | $25 free credits + special promo for researchers! |
+| Hopsworks | https://hopsworks.ai | [pricing :label: ](https://hopsworks.ai/pricing/) | Free plan available |
 | HPE - Ezmeral| Solution from [HP](https://www.hpe.com/us/en/solutions/ezmeral-machine-learning-operations.html) | - |
 | HPE - GreenLake | Solution from [HP](https://www.hpe.com/us/en/greenlake/ml-ops.html) | - |
 | Iguazio | https://iguazio.com/mlops/ | - | 14 Day Free Trial |
