@@ -86,7 +86,6 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Iguazio | https://iguazio.com/mlops/ | - | 14 Day Free Trial |
 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
-| Neptune.ai | https://neptune.ai/ | [pricing :label: ](https://neptune.ai/pricing) | Freemium |
 | Neu.ro | https://neu.ro/ | - | - | 
 | Seldon Core | https://seldon.io/tech/products/core/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
