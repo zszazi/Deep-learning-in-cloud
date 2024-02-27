@@ -44,6 +44,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | RunPod | https://www.runpod.io/gpu-instance | [pricing :label: ](https://www.runpod.io/gpu-instance/pricing) | - |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
+| [Dataoorts](https://dataoorts.com/) | https://dataoorts.com/ | [pricing :label: Starting at $0.55/hr for 1x A100, $0.69/hr for 1x H100 and $0.88 for 1x GH200](https://dataoorts.com/pricing) | - |
 
 
 # Deploy your model as a Web app
