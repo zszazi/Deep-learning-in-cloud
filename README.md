@@ -22,6 +22,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | - |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
+| [Dataoorts](https://dataoorts.com/) | https://dataoorts.com/ | [pricing :label: Starting at $0.55/hr for 1x A100, $0.69/hr for 1x H100 and $0.88 for 1x GH200](https://dataoorts.com/pricing) | - |
 | Deepnote | https://www.deepnote.com/ | Currently in Beta | - |
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
@@ -44,7 +45,6 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | RunPod | https://www.runpod.io/gpu-instance | [pricing :label: ](https://www.runpod.io/gpu-instance/pricing) | - |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
-| [Dataoorts](https://dataoorts.com/) | https://dataoorts.com/ | [pricing :label: Starting at $0.55/hr for 1x A100, $0.69/hr for 1x H100 and $0.88 for 1x GH200](https://dataoorts.com/pricing) | - |
 
 
 # Deploy your model as a Web app
