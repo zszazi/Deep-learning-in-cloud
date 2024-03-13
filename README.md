@@ -55,7 +55,6 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
 | Glitch | https://glitch.com | - | - |
-| Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
