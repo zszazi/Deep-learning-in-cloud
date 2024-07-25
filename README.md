@@ -40,6 +40,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
 | puzl.ee | https://puzl.ee/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| PureGPU | https://puregpu.com | USA 4090 and ADA Cards starting at 0.55USD/h | Discounts for researchers and students |
 | Q Blocks | https://qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | RunPod | https://www.runpod.io/gpu-instance | [pricing :label: ](https://www.runpod.io/gpu-instance/pricing) | - |
