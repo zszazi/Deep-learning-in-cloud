@@ -62,6 +62,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
 
+
 # MLOps Platforms
 A Beautiful marriage :ring: between Machine Learning and DevOps ( A Match Made in Heaven )
 
@@ -91,6 +92,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Neu.ro | https://neu.ro/ | - | - | 
 | Seldon Core | https://seldon.io/tech/products/core/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
+| Fiddler AI | https://fiddler.ai | [pricing :label: ](https://fiddler.ai/) | [SageMaker ML Monitoring With Fiddler AI :label:](https://www.fiddler.ai/partners/amazon-sagemaker-ai)
 
 
 # Perks and offers
