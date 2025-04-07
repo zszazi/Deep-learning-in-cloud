@@ -62,6 +62,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
 | Zeit | https://zeit.co | [pricing :label: ](https://zeit.co/pricing) | Free plan available |
 
+
 # MLOps Platforms
 A Beautiful marriage :ring: between Machine Learning and DevOps ( A Match Made in Heaven )
 
@@ -78,6 +79,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | ClearML | https://clear.ml | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
 | Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/plans/) | - |
 | DataRobot | https://www.datarobot.com/platform/mlops/ | - | $500 of free usage credits across products |
+| Fiddler AI | https://fiddler.ai | [pricing :label: ](https://fiddler.ai/) | [SageMaker ML Monitoring With Fiddler AI :label:](https://www.fiddler.ai/partners/amazon-sagemaker-ai)
 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
 | Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | - | 
@@ -91,7 +93,6 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Neu.ro | https://neu.ro/ | - | - | 
 | Seldon Core | https://seldon.io/tech/products/core/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
-
 
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
