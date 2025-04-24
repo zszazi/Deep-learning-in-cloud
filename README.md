@@ -43,7 +43,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | PureGPU | https://puregpu.com | USA 4090 and ADA Cards starting at 0.55USD/h | Discounts for researchers and students |
 | Q Blocks | https://qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
-| RunPod | https://www.runpod.io/gpu-instance | [pricing :label: ](https://www.runpod.io/gpu-instance/pricing) | - |
+| RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/academic-research-program) |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 
