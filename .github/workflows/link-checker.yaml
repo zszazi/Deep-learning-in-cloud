@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: README.md
+          args: --exclude 'https://www\.hpe\.com/us/en/greenlake\.html' --exclude 'https://www\.hpe\.com/us/en/private-cloud-ai\.html' --exclude 'https://www\.intel\.com/content/www/us/en/developer/tools/cnvrg/overview\.html' README.md
          
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
