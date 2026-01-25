@@ -18,8 +18,8 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Alibaba cloud | https://alibabacloud.com | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
-| Cirrascale | http://www.cirrascale.com | [pricing :label:](http://www.cirrascale.com/pricing_waas.php) | - |
-| Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
+| Cirrascale | https://www.cirrascale.com | [pricing :label:](https://www.cirrascale.com/) | - |
+| Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/) | - |
 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | - |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/dss/trynow/free-edition) |
 | [Dataoorts](https://dataoorts.com/) | https://dataoorts.com/ | [pricing :label: Starting at $0.55/hr for 1x A100, $0.69/hr for 1x H100 and $0.88 for 1x GH200](https://dataoorts.com/pricing) | - |
@@ -33,9 +33,9 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
-| [Lambda](https://lambdalabs.com/) | https://lambdalabs.com/service/gpu-cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambdalabs.com/service/gpu-cloud#pricing) | - | 
+| [Lambda](https://lambdalabs.com/) | https://lambda.ai/cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambda.ai/cloud) | - | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
-| Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
+| Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai) | Free $10 worth of cloud credits |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
@@ -43,8 +43,8 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | PureGPU | https://puregpu.com | USA 4090 and ADA Cards starting at 0.55USD/h | Discounts for researchers and students |
 | Q Blocks | https://qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
-| RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/academic-research-program) |
-| TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
+| RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/) |
+| TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 
 
@@ -53,7 +53,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 
 | Vendor   |      Website      |  Pricing | Free Trial / Free Credits |
 |----------|---------| -------- | ----------|
-| Deta | https://www.deta.sh/ | [pricing :label: ](https://www.deta.sh/pricing) | Free plan available |
+| Deta | https://deta.space/ | [pricing :label: ](https://deta.space/) | Free plan available |
 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
 | Glitch | https://glitch.com | - | - |
 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
@@ -77,21 +77,21 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Arize AI | https://arize.com/ | [pricing :label: ](https://arize.com/pricing/) | Free tier available |
 | Arrikto | https://arrikto.com/ | - | - |
 | ClearML | https://clear.ml | [pricing :label: ](https://clear.ml/pricing/) | Free plan available |
-| Cnvrg | https://cnvrg.io/platform/mlops/ | [pricing :label: ](https://cnvrg.io/plans/) | - |
+| Cnvrg | https://cnvrg.io/ | [pricing :label: ](https://cnvrg.io/) | - |
 | DataRobot | https://www.datarobot.com/platform/mlops/ | - | $500 of free usage credits across products |
 | Fiddler AI | https://fiddler.ai | [pricing :label: ](https://fiddler.ai/) | [SageMaker ML Monitoring With Fiddler AI :label:](https://www.fiddler.ai/partners/amazon-sagemaker-ai)
 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | Google Cloud AI Platform | https://cloud.google.com/ai-platform/ | [pricing :label: ](https://cloud.google.com/ai-platform/pricing) | - |
-| Gradient from Paperspace | https://gradient.paperspace.com/ | [pricing :label: ](https://www.paperspace.com/pricing) | - | 
-| Grid.ai | https://grid.ai/ | [pricing :label: ](https://grid.ai/pricing/) | $25 free credits + special promo for researchers! |
+| Gradient from Paperspace | https://www.paperspace.com/gradient | [pricing :label: ](https://www.paperspace.com/pricing) | - | 
+| Lightning AI (formerly Grid.ai) | https://lightning.ai/ | [pricing :label: ](https://lightning.ai/pricing) | $25 free credits + special promo for researchers! |
 | Hopsworks | https://hopsworks.ai | [pricing :label: ](https://hopsworks.ai/pricing/) | Free plan available |
 | HPE - Ezmeral| Solution from [HP](https://www.hpe.com/us/en/solutions/ezmeral-machine-learning-operations.html) | - |
-| HPE - GreenLake | Solution from [HP](https://www.hpe.com/us/en/greenlake/ml-ops.html) | - |
+| HPE - GreenLake | Solution from [HP](https://www.hpe.com/us/en/greenlake.html) | - |
 | Iguazio | https://iguazio.com/mlops/ | - | 14 Day Free Trial |
 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
 | Neu.ro | https://neu.ro/ | - | - | 
-| Seldon Core | https://seldon.io/tech/products/core/ | - | - |
+| Seldon Core | https://www.seldon.io/products/seldon-core-2 | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
 
 # Perks and offers
@@ -99,10 +99,10 @@ If you are a student or researcher you can get extra credts , contact the provid
 
 * Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/Resources/kaggle.html)
 * Do you have a GPU lying around rent your machine to Earn money using [Vast.ai](https://vast.ai/console/host/setup/)*
-* Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/tesla/gpu-test-drive/)
+* Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/)
 
 * AWS Cloud Credits for Research -[link](https://aws.amazon.com/research-credits/)
-* Nvidia GPU Grant Program- [link](https://developer.nvidia.com/academic_gpu_seeding)
+* Nvidia Academic Hardware Grant Program- [link](https://developer.nvidia.com/academic_hardware_grant_program)
 * **If you are a Startup** then google has you covered wth Startup Program giving you credits from **$1000 to $100000** - [link](https://cloud.google.com/developers/startups/)
 * Google giving cluster of **1000 TPUs to researcher** In total, this cluster delivers a total of more than **180 petaflops of raw compute power!** [techcrunch link](https://techcrunch.com/2017/05/17/the-tensorflow-research-cloud-program-gives-the-latest-cloud-tpus-to-scientists/)  - [application link](https://www.tensorflow.org/tfrc/)
 * Google cloud Education Grant - [link](https://cloud.google.com/edu/)
