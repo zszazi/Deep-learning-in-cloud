@@ -3,6 +3,9 @@ name: Check markdown links
 on:
   repository_dispatch:
   workflow_dispatch:
+  pull_request:
+    branches:
+      - master
   schedule:
     # every sunday at 12:00
     - cron: "00 12 * * 0"  # https://crontab.guru/#00_12_*_*_0
@@ -19,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: README.md
+          args: --exclude 'https://www\.hpe\.com/us/en/greenlake\.html' --exclude 'https://www\.hpe\.com/us/en/private-cloud-ai\.html' --exclude 'https://www\.intel\.com/content/www/us/en/developer/tools/cnvrg/overview\.html' --exclude 'http://landing\.hostkey\.com/.*' README.md
          
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
