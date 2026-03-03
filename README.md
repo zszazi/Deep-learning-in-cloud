@@ -24,6 +24,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/product/get-started/) |
 | [Dataoorts](https://dataoorts.com/) | https://dataoorts.com/ | [pricing :label: Starting at $0.55/hr for 1x A100, $0.69/hr for 1x H100 and $0.88 for 1x GH200](https://dataoorts.com/pricing/) | - |
 | Deepnote | https://deepnote.com/ | Currently in Beta | - |
+| Deploybase | https://deploybase.ai/ | [pricing](https://deploybase.ai/) | - |
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
 | Golem | https://golem.network | - | - |
