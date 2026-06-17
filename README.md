@@ -41,6 +41,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | One Stop System | https://onestopsystems.com/ | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/) |
 | puzl.ee | https://puzl.cloud/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| Radeon Cloud | https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud | [Pay as you go](https://radeon.anruicloud.com/) | Free tier — ROCm GPU notebooks on AMD Radeon (Colab-style) |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/) |
 | TensorDock | https://www.tensordock.com/ | [pricing :label: ](https://dashboard.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
@@ -96,6 +97,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 If you are a student or researcher you can get extra credts , contact the provider
 
 * Paperspace provides $10 of free Gradient° credit [fast.ai link](https://course.fast.ai/Resources/kaggle.html)
+* Radeon Cloud gives free AMD ROCm GPU notebook hours on AMD Radeon hardware (Colab-style, with ready-to-run templates for fine-tuning and inference) [link](https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud)
 * Do you have a GPU lying around rent your machine to Earn money using [Vast.ai](https://cloud.vast.ai/)*
 * Test Drive Nvidia GPU [link](https://www.nvidia.com/en-us/data-center/)
 
