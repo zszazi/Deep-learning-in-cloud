@@ -121,3 +121,4 @@ If you are a student or researcher you can get extra credts , contact the provid
  
  
   <p align="center"> Made with ❤️ for awesome AI community </p>
+| [GPUVista](https://gpuvista.com) | India + Global cloud GPU price comparison (16+ providers, 11 models, weekly) |
