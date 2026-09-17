@@ -29,6 +29,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
 | Golem | https://golem.network | - | - |
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
+| Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
 | Hostkey | https://hostkey.com/gpu-dedicated-servers/ | GPU from 90 euros/month | Free trials available |
