@@ -37,6 +37,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
 | [Lambda](https://lambda.ai/) | https://lambda.ai/cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambda.ai/cloud) | - | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
+| Lium (lium.io) | https://lium.io/?utm_source=deep-learning-in-cloud&utm_medium=directory | [pricing :label: per-second billing, H100 from $1.30/hr, H200 from $3.00/hr, RTX 5090 from $0.50/hr per GPU](https://lium.io/pricing) | Public price feed, no account: https://lium.io/pricing.json |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai) | Free $10 worth of cloud credits |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://onestopsystems.com/ | - | - |
