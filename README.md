@@ -45,6 +45,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Radeon Cloud | https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud | [Pay as you go](https://radeon.anruicloud.com/) | Free tier — ROCm GPU notebooks on AMD Radeon (Colab-style) |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/) |
+| Symbioza | https://symbioza.dev | [prepaid credit, from $10](https://symbioza.dev/pricing) | - |
 | TensorDock | https://www.tensordock.com/ | [pricing :label: ](https://dashboard.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://cloud.vast.ai/create/) | - |
 
