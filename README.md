@@ -28,9 +28,9 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Golem | https://golem.network | - | - |
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
-| Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
+| Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | Hostkey | https://hostkey.com/gpu-dedicated-servers/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/products/gpu-ai-accelerator | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://cloud.ibm.com/registration) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
@@ -83,12 +83,12 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Flyte | https://flyte.org/ | - | Open Source [:octocat: Link](https://github.com/flyteorg/flyte) |
 | Google Cloud AI Platform | https://cloud.google.com/vertex-ai | [pricing :label: ](https://cloud.google.com/vertex-ai) | - |
 | Gradient from Paperspace | https://www.paperspace.com/artificial-intelligence | [pricing :label: ](https://www.paperspace.com/pricing) | - | 
-| Lightning AI (formerly Grid.ai) | https://lightning.ai/ | [pricing :label: ](https://lightning.ai/pricing) | $25 free credits + special promo for researchers! |
 | Hopsworks | https://www.hopsworks.ai/ | [pricing :label: ](https://www.hopsworks.ai/pricing) | Free plan available |
 | HPE - Ezmeral| Solution from [HP](https://www.hpe.com/us/en/private-cloud-ai.html) | - |
 | HPE - GreenLake | Solution from [HP](https://www.hpe.com/us/en/greenlake.html) | - |
 | Iguazio | https://www.iguazio.com/mlops/ | - | 14 Day Free Trial |
 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
+| Lightning AI (formerly Grid.ai) | https://lightning.ai/ | [pricing :label: ](https://lightning.ai/pricing) | $25 free credits + special promo for researchers! |
 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
 | Neu.ro | https://www.apolo.us/ | - | - | 
 | Seldon Core | https://seldon.io/ | - | - |
