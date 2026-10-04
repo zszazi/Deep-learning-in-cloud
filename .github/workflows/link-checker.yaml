@@ -22,7 +22,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: --exclude 'https://www\.hpe\.com/us/en/greenlake\.html' --exclude 'https://www\.hpe\.com/us/en/private-cloud-ai\.html' --exclude 'https://www\.intel\.com/content/www/us/en/developer/tools/cnvrg/overview\.html' --exclude 'http://landing\.hostkey\.com/.*' README.md
+          # --max-retries/--retry-wait-time absorb transient runner network errors.
+          # Excludes: these URLs work in a browser but error deterministically for
+          # automated clients, so lychee (fail: true) would break every PR check:
+          #   hpe.com/us/en/{greenlake,private-cloud-ai}: HPE's edge resets HTTP/2
+          #     streams to non-browser clients ("HTTP/2 protocol error")
+          #   intel.com cnvrg overview: Akamai bot check 403s clients whose TLS/HTTP
+          #     fingerprint doesn't match their claimed UA
+          #   landing.hostkey.com: campaign landing page (2020 _ga params), flaky
+          #     when added (Jan 2026); reachable again now, re-check before dropping
+          args: >-
+            --max-retries 5
+            --retry-wait-time 2
+            --exclude 'https://www\.hpe\.com/us/en/greenlake\.html'
+            --exclude 'https://www\.hpe\.com/us/en/private-cloud-ai\.html'
+            --exclude 'https://www\.intel\.com/content/www/us/en/developer/tools/cnvrg/overview\.html'
+            --exclude 'http://landing\.hostkey\.com/.*'
+            README.md
          
       - name: Create Issue From File
         if: env.lychee_exit_code != 0

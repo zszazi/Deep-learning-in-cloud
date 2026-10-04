@@ -19,14 +19,13 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
 | Azure | https://azure.microsoft.com/en-in/products/machine-learning/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount) |
 | Cirrascale | https://www.cirrascale.com | [pricing :label:](https://www.cirrascale.com/) | - |
-| Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/) | - |
+| Cloudalize (now Radian Arc) | [radianarc.com](https://www.radianarc.com/) | - | - |
 | DataCrunch | https://verda.com/ | V100 at $0.69/h | - |
 | Dataiku | https://www.dataiku.com | - | [Free Plans](https://www.dataiku.com/product/get-started/) |
 | [Dataoorts](https://dataoorts.com/) | https://dataoorts.com/ | [pricing :label: Starting at $0.55/hr for 1x A100, $0.69/hr for 1x H100 and $0.88 for 1x GH200](https://dataoorts.com/pricing/) | - |
 | Deepnote | https://deepnote.com/ | Currently in Beta | - |
 | Deploybase | https://deploybase.ai/ | [pricing](https://deploybase.ai/) | - |
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
-| Genesis Cloud | https://www.genesiscloud.com/ | 1080Ti at $0.30/hour | 166 free GPU hours |
 | Golem | https://golem.network | - | - |
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
@@ -71,8 +70,8 @@ Working on Serious Enterprise Level projects that has potential to serve million
 
 |     Project / Platform    |              Website              | Pricing | Free Trial / Free Credits | 
 |----------|---------| -------- | ----------|
-| Akira.ai | https://www.akira.ai/mlops-platform/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
-| Algo | https://www.algomox.com/what-is-aiops | - | Free Edition Available | 
+| Akira.ai | https://www.akira.ai/ | [pricing :label: ](https://www.akira.ai/pricing/) | - |
+| Algo | https://www.algomox.com/ | - | Free Edition Available |
 | Algorithmia | https://www.datarobot.com/product/ai-platform/ | [pricing :label: ](https://www.datarobot.com/product/ai-platform/) | - |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | Available for free as part of AWS Free Tier | 
 | Arize AI | https://arize.com/ | [pricing :label: ](https://arize.com/pricing/) | Free tier available |
@@ -92,7 +91,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | KubeFlow ( for k8s ) | https://www.kubeflow.org/ | - | Open Source [:octocat: Link](https://github.com/kubeflow/kubeflow) | 
 | MLFlow | https://mlflow.org/ | - |Open Source :octocat: |
 | Neu.ro | https://www.apolo.us/ | - | - | 
-| Seldon Core | https://www.seldon.io/solutions/core-plus/ | - | - |
+| Seldon Core | https://seldon.io/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
 
 # Perks and offers
