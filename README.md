@@ -30,6 +30,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
+| GridShare | https://gridshare.in | [pricing :label: RTX 3060 from ₹12/hr, RTX 4090 ₹48/hr, RTX 5090 ₹51/hr, per-second INR billing](https://gridshare.in/pricing) | ₹25 trial credit on email verification |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | Hostkey | https://hostkey.com/gpu-dedicated-servers/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/products/gpu-ai-accelerator | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://cloud.ibm.com/registration) |
