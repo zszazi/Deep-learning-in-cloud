@@ -28,6 +28,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Golem | https://golem.network | - | - |
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
+| gpu.nz | https://gpu.nz | [per-minute :label: RTX 3090 from ~$0.32/hr, RTX 4090 from ~$0.45/hr, H100 from ~$2.69/hr; paid in rubles via SBP or crypto; one-click ComfyUI, Jupyter, Ollama, vLLM templates](https://gpu.nz/en/pricing) | - |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
 | GrabGPU | https://grabgpu.com | [Free tracker :label: daily prices and reported stock for 71 GPU models across 22 clouds](https://grabgpu.com/in-stock/) | Free, no sign-up |
