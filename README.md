@@ -46,6 +46,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | puzl.ee | https://puzl.cloud/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
 | Radeon Cloud | https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud | [Pay as you go](https://radeon.anruicloud.com/) | Free tier — ROCm GPU notebooks on AMD Radeon (Colab-style) |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
+| Runcrate | https://runcrate.ai/?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing | [pricing :label: per-second billing, live per-GPU prices for H200, H100, A100, L40S and RTX 4090/5090; 1-8 GPUs per instance; CLI and MCP server](https://runcrate.ai/pricing?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing) | - |
 | RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/) |
 | Symbioza | https://symbioza.dev | [prepaid credit, from $10](https://symbioza.dev/pricing) | - |
 | TensorDock | https://www.tensordock.com/ | [pricing :label: ](https://dashboard.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
