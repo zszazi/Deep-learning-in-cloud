@@ -50,6 +50,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Symbioza | https://symbioza.dev | [prepaid credit, from $10](https://symbioza.dev/pricing) | - |
 | TensorDock | https://www.tensordock.com/ | [pricing :label: ](https://dashboard.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://cloud.vast.ai/create/) | - |
+| VoltageGPU | https://voltagegpu.com | [pricing :label: ](https://voltagegpu.com/pricing) | - |
 
 
 # Deploy your model as a Web app
