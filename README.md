@@ -28,9 +28,11 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Golem | https://golem.network | - | - |
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
+| gpu.nz | https://gpu.nz | [per-minute :label: RTX 3090 from ~$0.32/hr, RTX 4090 from ~$0.45/hr, H100 from ~$2.69/hr; paid in rubles via SBP or crypto; one-click ComfyUI, Jupyter, Ollama, vLLM templates](https://gpu.nz/en/pricing) | - |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
 | GrabGPU | https://grabgpu.com | [Free tracker :label: daily prices and reported stock for 71 GPU models across 22 clouds](https://grabgpu.com/in-stock/) | Free, no sign-up |
+| GridShare | https://gridshare.in | [pricing :label: RTX 3060 from ₹12/hr, RTX 4090 ₹48/hr, RTX 5090 ₹51/hr, per-second INR billing](https://gridshare.in/pricing) | ₹25 trial credit on email verification |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | Hostkey | https://hostkey.com/gpu-dedicated-servers/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/products/gpu-ai-accelerator | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://cloud.ibm.com/registration) |
@@ -46,10 +48,12 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | puzl.ee | https://puzl.cloud/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
 | Radeon Cloud | https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud | [Pay as you go](https://radeon.anruicloud.com/) | Free tier — ROCm GPU notebooks on AMD Radeon (Colab-style) |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
+| Runcrate | https://runcrate.ai/?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing | [pricing :label: per-second billing, live per-GPU prices for H200, H100, A100, L40S and RTX 4090/5090; 1-8 GPUs per instance; CLI and MCP server](https://runcrate.ai/pricing?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing) | - |
 | RunPod | https://www.runpod.io/ | [pricing :label: Starting at $1.99/hr for 1x H100, $0.34/hr for 1x 4090, $3.99/hr for 1x H200](https://www.runpod.io/pricing) | [Research & startup credits programs available](https://www.runpod.io/) |
 | Symbioza | https://symbioza.dev | [prepaid credit, from $10](https://symbioza.dev/pricing) | - |
 | TensorDock | https://www.tensordock.com/ | [pricing :label: ](https://dashboard.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
 | Vast.ai | https://vast.ai | [pricing :label: ](https://cloud.vast.ai/create/) | - |
+| VoltageGPU | https://voltagegpu.com | [pricing :label: ](https://voltagegpu.com/pricing) | - |
 
 
 # Deploy your model as a Web app
