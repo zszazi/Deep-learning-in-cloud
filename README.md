@@ -39,6 +39,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | IBM Cloud | https://www.ibm.com/products/gpu-ai-accelerator | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://cloud.ibm.com/registration) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
 | [Lambda](https://lambda.ai/) | https://lambda.ai/cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambda.ai/cloud) | - | 
+| Lantern Works | https://thelanternworks.com/?ref=deep-learning-in-cloud | [Free comparison :label: tracks on-demand GPU cloud rental prices across multiple providers](https://thelanternworks.com/gpu/price-comparison/?ref=deep-learning-in-cloud) | Free, no sign-up |
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Lium | https://lium.io | [pricing :label: per-second billing, live per-GPU prices for H100, H200, B200 and RTX 4090/5090](https://lium.io/pricing) | - |
 | Lumino AI | https://www.luminoai.in | [pricing :label: RTX 4090 from ~$1.10/hr, A100 80GB from ~$2.35/hr, per-second INR billing](https://www.luminoai.in/gpu) | - |
