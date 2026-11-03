@@ -43,6 +43,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Lium | https://lium.io | [pricing :label: per-second billing, live per-GPU prices for H100, H200, B200 and RTX 4090/5090](https://lium.io/pricing) | - |
 | Lumino AI | https://www.luminoai.in | [pricing :label: RTX 4090 from ~$1.10/hr, A100 80GB from ~$2.35/hr, per-second INR billing](https://www.luminoai.in/gpu) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai) | Free $10 worth of cloud credits |
+| NoctHost | https://nocthost.com/gpu-vps | [pricing :label: hourly billing, fractional NVIDIA A16 from $0.085/hr, A40 48 GB at $2.397/hr; pay by card or crypto](https://nocthost.com/gpu-vps) | - |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://onestopsystems.com/ | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/) |
