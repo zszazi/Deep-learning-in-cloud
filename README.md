@@ -36,6 +36,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | GridShare | https://gridshare.in | [pricing :label: RTX 3060 from ₹12/hr, RTX 4090 ₹48/hr, RTX 5090 ₹51/hr, per-second INR billing](https://gridshare.in/pricing) | ₹25 trial credit on email verification |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | Hostkey | https://hostkey.com/gpu-dedicated-servers/ | GPU from 90 euros/month | Free trials available |
+| Hundredth Run compute desk | https://hundredthrun-compute-desk.pages.dev | [Free price table :label: on-demand list prices for H100, H200, B200, A100, MI300X and more across 25 clouds, each with source link and date, updated weekly, CC BY 4.0 data](https://hundredthrun-compute-desk.pages.dev/open-data) | Free, no sign-up |
 | IBM Cloud | https://www.ibm.com/products/gpu-ai-accelerator | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://cloud.ibm.com/registration) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
 | [Lambda](https://lambda.ai/) | https://lambda.ai/cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambda.ai/cloud) | - | 
