@@ -36,17 +36,21 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | GridShare | https://gridshare.in | [pricing :label: RTX 3060 from ₹12/hr, RTX 4090 ₹48/hr, RTX 5090 ₹51/hr, per-second INR billing](https://gridshare.in/pricing) | ₹25 trial credit on email verification |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
 | Hostkey | https://hostkey.com/gpu-dedicated-servers/ | GPU from 90 euros/month | Free trials available |
+| Hundredth Run compute desk | https://hundredthrun-compute-desk.pages.dev | [Free price table :label: on-demand list prices for H100, H200, B200, A100, MI300X and more across 25 clouds, each with source link and date, updated weekly, CC BY 4.0 data](https://hundredthrun-compute-desk.pages.dev/open-data) | Free, no sign-up |
 | IBM Cloud | https://www.ibm.com/products/gpu-ai-accelerator | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://cloud.ibm.com/registration) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | - )
 | [Lambda](https://lambda.ai/) | https://lambda.ai/cloud | [Starting at $0.60/hr for a 1x A10 and $1.10/hr for a 1x A100](https://lambda.ai/cloud) | - | 
+| Lantern Works | https://thelanternworks.com/?ref=deep-learning-in-cloud | [Free comparison :label: tracks on-demand GPU cloud rental prices across multiple providers](https://thelanternworks.com/gpu/price-comparison/?ref=deep-learning-in-cloud) | Free, no sign-up |
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Lium | https://lium.io | [pricing :label: per-second billing, live per-GPU prices for H100, H200, B200 and RTX 4090/5090](https://lium.io/pricing) | - |
 | Lumino AI | https://www.luminoai.in | [pricing :label: RTX 4090 from ~$1.10/hr, A100 80GB from ~$2.35/hr, per-second INR billing](https://www.luminoai.in/gpu) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai) | Free $10 worth of cloud credits |
+| NoctHost | https://nocthost.com/gpu-vps | [pricing :label: hourly billing, fractional NVIDIA A16 from $0.085/hr, A40 48 GB at $2.397/hr; pay by card or crypto](https://nocthost.com/gpu-vps) | - |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://onestopsystems.com/ | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/) |
 | puzl.ee | https://puzl.cloud/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
+| QIT | https://qit.energy | [pricing :label: L40s from $1.25/hr, H100 $3.08/hr, H200 $3.51/hr, B200 $4.68/hr; serverless + reserved; Model API](https://qit.energy/pricing) | $1.56 free credits for new business-email accounts |
 | Radeon Cloud | https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud | [Pay as you go](https://radeon.anruicloud.com/) | Free tier — ROCm GPU notebooks on AMD Radeon (Colab-style) |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | Runcrate | https://runcrate.ai/?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing | [pricing :label: per-second billing, live per-GPU prices for H200, H100, A100, L40S and RTX 4090/5090; 1-8 GPUs per instance; CLI and MCP server](https://runcrate.ai/pricing?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing) | - |
