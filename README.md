@@ -32,6 +32,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | gpu.nz | https://gpu.nz | [per-minute :label: RTX 3090 from ~$0.32/hr, RTX 4090 from ~$0.45/hr, H100 from ~$2.69/hr; paid in rubles via SBP or crypto; one-click ComfyUI, Jupyter, Ollama, vLLM templates](https://gpu.nz/en/pricing) | - |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
+| GPUwerk | https://gpuwerk.com | [pricing :label: dedicated NVIDIA DGX Spark (GB10, 128 GB unified memory) from $0.79/hr, two-node 256 GB cluster $1.79/hr, per-minute billing; Europe, North America, East Asia](https://gpuwerk.com/pricing/) | - |
 | GrabGPU | https://grabgpu.com | [Free tracker :label: daily prices and reported stock for 71 GPU models across 22 clouds](https://grabgpu.com/in-stock/) | Free, no sign-up |
 | GridShare | https://gridshare.in | [pricing :label: RTX 3060 from ₹12/hr, RTX 4090 ₹48/hr, RTX 5090 ₹51/hr, per-second INR billing](https://gridshare.in/pricing) | ₹25 trial credit on email verification |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
