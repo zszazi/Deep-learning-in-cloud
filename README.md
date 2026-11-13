@@ -116,6 +116,7 @@ If you are a student or researcher you can get extra credts , contact the provid
 
 * AWS Cloud Credits for Research -[link](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/)
 * Nvidia Academic Hardware Grant Program- [link](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/)
+* Public and funded compute beyond cloud credits (NAIRR Pilot, EuroHPC AI Factories, UK AI Research Resource and more), 52 programmes with eligibility and dated official links - [ComputeFinder](https://computefinder.net/free-compute)
 * **If you are a Startup** then google has you covered wth Startup Program giving you credits from **$1000 to $100000** - [link](https://cloud.google.com/startup)
 * Google giving cluster of **1000 TPUs to researcher** In total, this cluster delivers a total of more than **180 petaflops of raw compute power!** [techcrunch link](https://techcrunch.com/2017/05/17/the-tensorflow-research-cloud-program-gives-the-latest-cloud-tpus-to-scientists/)  - [application link](https://sites.research.google/trc/)
 * Google cloud Education Grant - [link](https://cloud.google.com/edu/)
