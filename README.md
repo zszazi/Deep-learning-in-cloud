@@ -17,6 +17,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Activeloop | https://www.activeloop.ai | - | - |
 | Alibaba cloud | https://www.alibabacloud.com/ | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
+| AxForge | https://axforge.ai/gpu/ | [pricing :label: dedicated NVIDIA DGX Spark (GB10, 128 GB unified memory) in Spain and RTX 3060 / RTX 5090 in Sweden, by the hour, week, month or year, full SSH access; EU company](https://axforge.ai/pricing/) | 3M free serverless API tokens every 30 days, no card (API only, not GPU hours) |
 | Azure | https://azure.microsoft.com/en-in/products/machine-learning/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount) |
 | Cirrascale | https://www.cirrascale.com | [pricing :label:](https://www.cirrascale.com/) | - |
 | Cloudalize (now Radian Arc) | [radianarc.com](https://www.radianarc.com/) | - | - |
