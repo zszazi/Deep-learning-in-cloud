@@ -17,6 +17,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Activeloop | https://www.activeloop.ai | - | - |
 | Alibaba cloud | https://www.alibabacloud.com/ | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
+| AxForge | https://axforge.ai/gpu/ | [pricing :label: dedicated NVIDIA DGX Spark (GB10, 128 GB unified memory) in Spain and RTX 3060 / RTX 5090 in Sweden, by the hour, week, month or year, full SSH access; EU company](https://axforge.ai/pricing/) | 3M free serverless API tokens every 30 days, no card (API only, not GPU hours) |
 | Azure | https://azure.microsoft.com/en-in/products/machine-learning/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount) |
 | Cirrascale | https://www.cirrascale.com | [pricing :label:](https://www.cirrascale.com/) | - |
 | Cloudalize (now Radian Arc) | [radianarc.com](https://www.radianarc.com/) | - | - |
@@ -29,9 +30,11 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Exoscale | https://www.exoscale.com/gpu/ | [pricing :label: ](https://www.exoscale.com/pricing/#/gpu/small) | - |
 | Golem | https://golem.network | - | - |
 | Google Cloud Platform | https://cloud.google.com/gpu/ | [pricing :label: ](https://cloud.google.com/pricing/) | $300 [credits](https://cloud.google.com/free/) |
+| GPU Price Index | https://gpu-cloud-prices.pages.dev | [Free price index :label: observed on-demand and Spot prices in USD per GPU-hour, each with source link and observation time, auto-refreshed, JSON/RSS exports, CC BY 4.0 data](https://gpu-cloud-prices.pages.dev/data/) | Free, no sign-up |
 | gpu.nz | https://gpu.nz | [per-minute :label: RTX 3090 from ~$0.32/hr, RTX 4090 from ~$0.45/hr, H100 from ~$2.69/hr; paid in rubles via SBP or crypto; one-click ComfyUI, Jupyter, Ollama, vLLM templates](https://gpu.nz/en/pricing) | - |
 | GPUeater | https://gpueater.com | [pricing :label: ](https://gpueater.com/#pricing) | - |
 | GPULab | https://gpulab.io | [pricing :label: ](https://gpulab.io/pricing/) | - |
+| GPUwerk | https://gpuwerk.com | [pricing :label: dedicated NVIDIA DGX Spark (GB10, 128 GB unified memory) from $0.79/hr, two-node 256 GB cluster $1.79/hr, per-minute billing; Europe, North America, East Asia](https://gpuwerk.com/pricing/) | - |
 | GrabGPU | https://grabgpu.com | [Free tracker :label: daily prices and reported stock for 71 GPU models across 22 clouds](https://grabgpu.com/in-stock/) | Free, no sign-up |
 | GridShare | https://gridshare.in | [pricing :label: RTX 3060 from ₹12/hr, RTX 4090 ₹48/hr, RTX 5090 ₹51/hr, per-second INR billing](https://gridshare.in/pricing) | ₹25 trial credit on email verification |
 | Hinode | https://hinode.run | [pricing :label: from $1.75/hr for 1x L4, $3.30/hr for 1x L40S and $8.05/hr for 1x RTX PRO 6000](https://hinode.run/#pricing) | - |
@@ -45,7 +48,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Lium | https://lium.io | [pricing :label: per-second billing, live per-GPU prices for H100, H200, B200 and RTX 4090/5090](https://lium.io/pricing) | - |
 | Lumino AI | https://www.luminoai.in | [pricing :label: RTX 4090 from ~$1.10/hr, A100 80GB from ~$2.35/hr, per-second INR billing](https://www.luminoai.in/gpu) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai) | Free $10 worth of cloud credits |
-| NoctHost | https://nocthost.com/gpu-vps | [pricing :label: hourly billing, fractional NVIDIA A16 from $0.085/hr, A40 48 GB at $2.397/hr; pay by card or crypto](https://nocthost.com/gpu-vps) | - |
+| NoctHost | https://nocthost.com/gpu-vps | [pricing :label: hourly billing, NVIDIA A16 16 GB from $0.66/hr, RTX 4000 Ada 20 GB from $0.73/hr, A40 48 GB at $2.40/hr; pay by card or crypto](https://nocthost.com/gpu-vps) | - |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://onestopsystems.com/ | - | - |
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/) |
@@ -116,6 +119,7 @@ If you are a student or researcher you can get extra credts , contact the provid
 
 * AWS Cloud Credits for Research -[link](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/)
 * Nvidia Academic Hardware Grant Program- [link](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/)
+* Public and funded compute beyond cloud credits (NAIRR Pilot, EuroHPC AI Factories, UK AI Research Resource and more), 52 programmes with eligibility and dated official links - [ComputeFinder](https://computefinder.net/free-compute)
 * **If you are a Startup** then google has you covered wth Startup Program giving you credits from **$1000 to $100000** - [link](https://cloud.google.com/startup)
 * Google giving cluster of **1000 TPUs to researcher** In total, this cluster delivers a total of more than **180 petaflops of raw compute power!** [techcrunch link](https://techcrunch.com/2017/05/17/the-tensorflow-research-cloud-program-gives-the-latest-cloud-tpus-to-scientists/)  - [application link](https://sites.research.google/trc/)
 * Google cloud Education Grant - [link](https://cloud.google.com/edu/)
