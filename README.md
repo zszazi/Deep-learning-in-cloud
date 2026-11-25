@@ -54,6 +54,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/) |
 | puzl.ee | https://puzl.cloud/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
 | QIT | https://qit.energy | [pricing :label: L40s from $1.25/hr, H100 $3.08/hr, H200 $3.51/hr, B200 $4.68/hr; serverless + reserved; Model API](https://qit.energy/pricing) | $1.56 free credits for new business-email accounts |
+| Rackloom | https://rackloom.in | [GPUs from $0.10/hr, prepaid per-second billing; RTX 4090, H100, H200, B200 and more](https://rackloom.in/gpus) | - |
 | Radeon Cloud | https://radeon.anruicloud.com/?utm_source=github&utm_medium=deep-learning-in-cloud&utm_campaign=awesome-dlcloud | [Pay as you go](https://radeon.anruicloud.com/) | Free tier — ROCm GPU notebooks on AMD Radeon (Colab-style) |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | Runcrate | https://runcrate.ai/?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing | [pricing :label: per-second billing, live per-GPU prices for H200, H100, A100, L40S and RTX 4090/5090; 1-8 GPUs per instance; CLI and MCP server](https://runcrate.ai/pricing?utm_source=deep-learning-in-cloud&utm_medium=directory&utm_campaign=gpu_pricing) | - |
@@ -108,6 +109,7 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Neu.ro | https://www.apolo.us/ | - | - | 
 | Seldon Core | https://seldon.io/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
+
 
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
