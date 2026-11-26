@@ -15,6 +15,7 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
 | Ace Cloud | [acecloudhosting.com](https://www.acecloudhosting.com/) | [pay as you go](https://www.acecloudhosting.com/public-cloud/pricing/) | [$300 credits] (https://www.acecloudhosting.com/public-cloud/gpu/) |
 | Activeloop | https://www.activeloop.ai | - | - |
+| Avian | https://avian.io/compute/ | [pricing :label: dedicated 8-GPU B200 from $3.42/GPU-hr and B300 from $4.23/GPU-hr, prepaid 12 to 36 month terms](https://avian.io/compute/) | - |
 | Alibaba cloud | https://www.alibabacloud.com/ | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
 | AxForge | https://axforge.ai/gpu/ | [pricing :label: dedicated NVIDIA DGX Spark (GB10, 128 GB unified memory) in Spain and RTX 3060 / RTX 5090 in Sweden, by the hour, week, month or year, full SSH access; EU company](https://axforge.ai/pricing/) | 3M free serverless API tokens every 30 days, no card (API only, not GPU hours) |
